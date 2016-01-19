@@ -24,8 +24,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://soundcloud.com/marnixdecat/pluto-biber-req-agnus-fragm'
 title: "Biber Req. 'Agnus' Fragm by marnixdecat"
-datePublished: '2016-01-19T14:54:03.815Z'
-dateModified: '2016-01-19T14:53:35.759Z'
+datePublished: '2016-01-19T15:25:55.692Z'
+dateModified: '2016-01-19T15:22:58.255Z'
 sourcePath: _posts/2016-01-19-biber-req-agnus-fragm-by-marnixdecat.md
 published: true
 inFeed: true
