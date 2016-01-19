@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T15:17:04.830Z'
-dateModified: '2016-01-19T15:16:39.289Z'
+datePublished: '2016-01-19T15:21:33.790Z'
+dateModified: '2016-01-19T15:21:20.491Z'
 title: Marnix De Cat
 author: []
+sourcePath: _posts/2016-01-19-marnix-de-cat.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-marnix-de-cat.md
-published: true
 url: marnix-de-cat/index.html
 _type: WebPage
 
