@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ©Yves Gervais
-datePublished: '2016-01-19T14:31:01.913Z'
-dateModified: '2016-01-19T14:30:54.203Z'
+datePublished: '2016-01-19T14:44:36.891Z'
+dateModified: '2016-01-19T14:34:22.729Z'
 title: 'Pluto & Hathor'
 author: []
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: pluto-and-hathor/index.html
-_type: WebPage
+_type: Article
 
 ---
 Beste muziekliefhebber,
