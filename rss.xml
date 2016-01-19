@@ -4,7 +4,7 @@
         <description><![CDATA[Home]]></description>
         <link>https://thegrid.ai/pluto-ensemble/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 13:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 13:24:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pluto-ensemble/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Biber Req. 'Agnus' Fragm by marnixdecat]]></title>
@@ -12,13 +12,6 @@
             <link>https://soundcloud.com/marnixdecat/pluto-biber-req-agnus-fragm</link>
             <guid isPermaLink="false">94eb25c8-7d39-4034-9ccf-034562ac5f32</guid>
             <pubDate>Tue, 19 Jan 2016 12:58:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pluto - ensemble]]></title>
-            <description><![CDATA[<article><h1>Pluto - ensemble</h1><p>variable vocal ensemble</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a23cc18fa527086316452dfa8ad8e6a187fe026a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pluto-ensemble/d345ba2d-5c31-44a2-bb17-f05ec749afaf/index.html</link>
-            <guid isPermaLink="false">d345ba2d-5c31-44a2-bb17-f05ec749afaf</guid>
-            <pubDate>Tue, 19 Jan 2016 13:09:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
