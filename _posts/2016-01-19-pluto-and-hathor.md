@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ©Yves Gervais
-datePublished: '2016-01-19T14:04:16.675Z'
-dateModified: '2016-01-19T14:02:05.044Z'
+datePublished: '2016-01-19T14:19:20.090Z'
+dateModified: '2016-01-19T14:18:34.871Z'
 title: 'Pluto & Hathor'
 author: []
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
