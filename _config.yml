@@ -23,7 +23,7 @@ color:
     - '#c0beaf'
     - '#e6988c'
   brandStrength: 1
-  lightness: 0.25
+  lightness: 0.75
   saturation: 0.25
   rhythmicContrast: 0.75
 purpose: []
