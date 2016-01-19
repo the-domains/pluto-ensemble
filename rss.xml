@@ -4,7 +4,7 @@
         <description><![CDATA[Home]]></description>
         <link>https://thegrid.ai/pluto-ensemble/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 13:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 13:23:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pluto-ensemble/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Biber Req. 'Agnus' Fragm by marnixdecat]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/pluto-ensemble/d345ba2d-5c31-44a2-bb17-f05ec749afaf/index.html</link>
             <guid isPermaLink="false">d345ba2d-5c31-44a2-bb17-f05ec749afaf</guid>
             <pubDate>Tue, 19 Jan 2016 13:09:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pluto & Hathor]]></title>
-            <description><![CDATA[<article><h1>Pluto & Hathor</h1><p>Beste muziekliefhebber,</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f3b3064a97ec1b68bf9b43f8f71c7297c324c4f.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pluto-ensemble/pluto-and-hathor/index.html</link>
-            <guid isPermaLink="false">8e80c2b1-281a-4c06-b81b-d2d40c133df5</guid>
-            <pubDate>Tue, 19 Jan 2016 13:21:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
