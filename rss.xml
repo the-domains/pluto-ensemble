@@ -4,7 +4,7 @@
         <description><![CDATA[Pluto - ensemble]]></description>
         <link>https://thegrid.ai/pluto-ensemble/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 14:45:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 14:47:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pluto-ensemble/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Pluto & Hathor]]></title>
@@ -14,11 +14,18 @@
             <pubDate>Tue, 19 Jan 2016 14:44:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pluto - ensemble]]></title>
-            <description><![CDATA[<article><h1>Pluto - ensemble</h1><p></p></article>]]></description>
+            <title><![CDATA[The variable vocal ensemble that brings music from the middle-ages till now.   ]]></title>
+            <description><![CDATA[<article><h1>The variable vocal ensemble that brings music from the middle-ages till now.   </h1><p></p></article>]]></description>
             <link>https://thegrid.ai/pluto-ensemble/pluto-ensemble/index.html</link>
             <guid isPermaLink="false">d345ba2d-5c31-44a2-bb17-f05ec749afaf</guid>
             <pubDate>Tue, 19 Jan 2016 14:45:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.pluto-ensemble.be/0_0_0_0_382_211_csupload_36840823.jpg?u=2067128235">]]></description>
+            <link>https://thegrid.ai/pluto-ensemble/6094d6f7-ec47-44a9-819a-21eb7e7247eb/index.html</link>
+            <guid isPermaLink="false">6094d6f7-ec47-44a9-819a-21eb7e7247eb</guid>
+            <pubDate>Tue, 19 Jan 2016 14:47:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
