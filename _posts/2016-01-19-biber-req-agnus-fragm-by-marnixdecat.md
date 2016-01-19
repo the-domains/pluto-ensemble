@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  name: SoundCloud
-  domain: soundcloud.com
   url: 'http://soundcloud.com'
+  name: SoundCloud
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+  domain: soundcloud.com
 keywords: []
 description: 'Fragment from concert Pluto & Hathor, 26/09/2015'
 app_links:
@@ -22,18 +22,15 @@ app_links:
     package: com.soundcloud.android
   - url: 'soundcloud://sounds:242720292'
     type: android
+isBasedOnUrl: 'https://soundcloud.com/marnixdecat/pluto-biber-req-agnus-fragm'
 title: "Biber Req. 'Agnus' Fragm by marnixdecat"
-datePublished: '2016-01-19T14:04:05.791Z'
-dateModified: '2016-01-19T13:59:47.721Z'
+datePublished: '2016-01-19T14:54:03.815Z'
+dateModified: '2016-01-19T14:53:35.759Z'
 sourcePath: _posts/2016-01-19-biber-req-agnus-fragm-by-marnixdecat.md
 published: true
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-starred: false
-authors: []
-url: biber-req-agnus-fragm-by-marnixdecat/index.html
+inFeed: true
+hasPage: false
+inNav: false
 _type: AudioObject
 _context: 'http://schema.org'
 
