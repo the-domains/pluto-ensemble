@@ -1,7 +1,7 @@
 name: Pluto-ensemble
 favicon: null
 layout_spectrum: 0.11827846546657383
-typography_spectrum: 0.21243014419451356
+typography_spectrum: 0.6079
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.5398286175914109
+  brandStrength: 0.125
   lightness: 0.2894814806059003
   saturation: 0.717826696112752
   rhythmicContrast: 0.7912024834658951
