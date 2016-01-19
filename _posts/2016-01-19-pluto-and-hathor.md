@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ©Yves Gervais
-datePublished: '2016-01-19T14:20:54.420Z'
-dateModified: '2016-01-19T14:20:08.848Z'
+datePublished: '2016-01-19T14:31:01.911Z'
+dateModified: '2016-01-19T14:30:54.203Z'
 title: 'Pluto & Hathor'
 author: []
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
