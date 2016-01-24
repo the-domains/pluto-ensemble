@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ©Yves Gervais
-datePublished: '2016-01-24T23:14:18.892Z'
-dateModified: '2016-01-24T23:14:12.825Z'
+datePublished: '2016-01-24T23:33:04.637Z'
+dateModified: '2016-01-24T23:32:55.358Z'
 title: 'Pluto & Hathor'
 author: []
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
@@ -19,12 +19,12 @@ publisher:
   url: null
   favicon: null
 url: pluto-and-hathor/index.html
-_type: Article
+_type: WebPage
 
 ---
 The Pluto - ensemble works together with the Hathor Consort in several Programs :
 
-"Voyces & Viols" (Tomkins)
+"Voyces & Viols"      (Tomkins)
 
 "Animam gementem cano" (Biber-Schmelzer-Tuma)
 
