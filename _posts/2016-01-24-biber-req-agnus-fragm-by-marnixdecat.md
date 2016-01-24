@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Fragment from concert Pluto & Hathor, 26/09/2015'
-datePublished: '2016-01-24T23:15:11.379Z'
-dateModified: '2016-01-24T23:15:07.799Z'
+datePublished: '2016-01-24T23:27:01.059Z'
+dateModified: '2016-01-24T23:26:55.754Z'
 author:
   - name: marnixdecat
     url: 'http://soundcloud.com/marnixdecat'
@@ -39,5 +39,3 @@ _context: 'http://schema.org'
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F242720292%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fmarnixdecat%2Fpluto-biber-req-agnus-fragm&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000143751103-ki8695-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10c78afd-5090-4c3c-927a-eb1cb70eec61.jpg)
