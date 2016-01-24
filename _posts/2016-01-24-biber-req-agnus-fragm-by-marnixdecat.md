@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T16:46:39.436Z'
-dateModified: '2016-01-24T16:46:33.046Z'
+datePublished: '2016-01-24T18:19:27.924Z'
+dateModified: '2016-01-24T18:12:57.699Z'
 author:
   - name: marnixdecat
     url: 'http://soundcloud.com/marnixdecat'
