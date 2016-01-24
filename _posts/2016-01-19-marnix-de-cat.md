@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T18:07:10.460Z'
-dateModified: '2016-01-24T17:47:37.511Z'
+datePublished: '2016-01-24T22:06:49.134Z'
+dateModified: '2016-01-24T22:06:45.608Z'
 title: Marnix De Cat
 author: []
 sourcePath: _posts/2016-01-19-marnix-de-cat.md
@@ -23,6 +23,6 @@ _type: WebPage
 
 ---
 ## personal website : [www.marnixdecat.be][0]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/07a97f3b285a6559437aa2cb06b8aacd9d3307c4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ae158a6-3011-48e9-8c1f-8c6e3fb45c9d.jpg)
 
 [0]: https://marnixdecat.wix.com/home
