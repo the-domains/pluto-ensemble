@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ©Yves Gervais
-datePublished: '2016-01-24T16:48:01.905Z'
-dateModified: '2016-01-24T16:47:56.021Z'
+datePublished: '2016-01-24T18:52:55.722Z'
+dateModified: '2016-01-24T18:52:51.661Z'
 title: 'Pluto & Hathor'
 author: []
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
@@ -22,11 +22,13 @@ url: pluto-and-hathor/index.html
 _type: WebPage
 
 ---
-Beste muziekliefhebber,
+Pluto - ensemble works together with the Hathor Consort in several Programs :
 
-Binnenkort komt hier de gloednieuwe webstek van Marnix De Cat en het Pluto-ensemble. 
+"Voyces & Viols" (Tomkins)
 
-We kijken er even erg naar uit als u :-)
+"Animam gementem cano" (Biber-Schmelzer-Tuma)
 
-Je kan hier alvast enkele fragmenten beluisteren uit onze concerten samen met het Hathor Consort...
+"Featering Rosa" (De Cat)
+
+"5 + 5 = 10" (Schutz-Schein-Brade)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f3b3064a97ec1b68bf9b43f8f71c7297c324c4f.jpg)
