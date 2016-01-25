@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ©Yves Gervais
-datePublished: '2016-01-25T14:43:05.050Z'
-dateModified: '2016-01-25T14:43:00.438Z'
+datePublished: '2016-01-25T16:15:06.648Z'
+dateModified: '2016-01-25T16:14:56.221Z'
 title: 'Pluto - ensemble sings together with Hathor Consort in several Programs :'
 author: []
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
@@ -43,4 +43,4 @@ Music & Unity...   ___(Schutz-Schein-Scheidt-Brade)_
 ## "Aquarius-Passion"
 
 Music for humanity at its turning point   (M. De Cat)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f3b3064a97ec1b68bf9b43f8f71c7297c324c4f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2833a5b9-7b48-4da5-bf82-4ce82da5bb5e.jpg)
