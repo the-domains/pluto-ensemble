@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T17:06:05.189Z'
+datePublished: '2016-01-25T17:06:05.248Z'
 dateModified: '2016-01-25T17:06:01.407Z'
 title: 'Pluto - ensemble sings together with Hathor Consort in several Programs :'
 author: []
