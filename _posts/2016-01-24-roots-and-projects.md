@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T02:12:26.951Z'
-dateModified: '2016-01-25T02:12:21.392Z'
+datePublished: '2016-01-25T02:23:07.840Z'
+dateModified: '2016-01-25T02:23:01.921Z'
 title: 'ROOTS & Projects'
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
@@ -41,13 +41,17 @@ Missa 'et in terra motus' (Brumel) and repetitive music  (Glass, De Cat)
 
 'l'Homme armé'-fragments and new music !
 
-## "Aquariuspassie"
+## "Aquarius-passion"
 
-Music for humanity at its turningpoint  (M. De Cat)
+Music for humanity at its turningpoint  _(M. De Cat)_
 
 ## "O belleza vitale, O belleza mortale !"  
 
-Madrigals in Ferrara, ca. 1580  (Marenzio, Luzzaschi..)
+Madrigals in Ferrara, ca. 1580  _(Marenzio, Luzzaschi..)_
+
+## "T' amo, mia vita !"
+
+"Love, death, and re-naissance"   'Italian Madrigals at the court of Christian 4 in Denmark.  _(Borgrevick, Pederson, Marenzio, Luzzaschi, De Wert)_
 
 ## "Aan de slag met Bach"
 
