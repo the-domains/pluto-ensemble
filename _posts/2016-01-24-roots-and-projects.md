@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T02:07:42.600Z'
-dateModified: '2016-01-25T02:07:37.509Z'
+datePublished: '2016-01-25T02:12:26.808Z'
+dateModified: '2016-01-25T02:12:21.392Z'
 title: 'ROOTS & Projects'
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
@@ -26,7 +26,7 @@ _type: WebPage
 
 _vocal soloists :_
 
-_Doro Mields, Griet De Geyter, Annelies Van Gramberen, Lore Binon, Marnix De Cat, Kevin Skelton, Thomas Hobbs, Vincent lesage, Tiemo Wang, Harry VanderKamp..._
+_Doro Mields, Griet De Geyter, Annelies Van Gramberen, Lore Binon, Katelijne Van Laethem, Marnix De Cat, Kevin Skelton, Thomas Hobbs, Vincent Lesage, Adriaan De Koster, Tiemo Wang, Harry VanderKamp, Arnout Malfliet ..._
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d234bc7a-dbcc-46cc-bc8c-ce7c61cc0ac2.jpg)
 
 ## "Ars subtilior, modern antiquity" 
