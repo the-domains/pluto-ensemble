@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T17:08:17.898Z'
-dateModified: '2016-01-25T17:08:14.320Z'
+datePublished: '2016-01-25T17:12:31.523Z'
+dateModified: '2016-01-25T17:12:25.485Z'
 title: 'Pluto & Hathor'
 author: []
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: pluto-and-hathor/index.html
-_type: Article
+_type: WebPage
 
 ---
 ## Pluto - ensemble sings together with Hathor Consort in several Programs :
