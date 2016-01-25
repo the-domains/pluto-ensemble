@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ©Yves Gervais
-datePublished: '2016-01-25T03:02:15.816Z'
+datePublished: '2016-01-25T03:02:15.900Z'
 dateModified: '2016-01-25T03:02:13.424Z'
 title: 'The Pluto - ensemble works together with the Hathor Consort in several Programs :'
 author: []
