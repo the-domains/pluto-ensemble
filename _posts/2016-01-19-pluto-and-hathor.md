@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T17:02:07.545Z'
-dateModified: '2016-01-25T17:02:05.745Z'
+datePublished: '2016-01-25T17:06:05.069Z'
+dateModified: '2016-01-25T17:06:01.407Z'
 title: 'Pluto - ensemble sings together with Hathor Consort in several Programs :'
 author: []
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
@@ -19,12 +19,11 @@ publisher:
   url: null
   favicon: null
 url: pluto-and-hathor/index.html
-_type: WebPage
+_type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d63f3076f6624b9bbe0c463ab9b72465ac536784.jpg)
-
 # Pluto - ensemble sings together with Hathor Consort in several Programs :
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d63f3076f6624b9bbe0c463ab9b72465ac536784.jpg)
 
 ## 
 
