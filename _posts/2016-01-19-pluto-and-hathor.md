@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ©Yves Gervais
-datePublished: '2016-01-25T16:15:06.665Z'
-dateModified: '2016-01-25T16:14:56.221Z'
+datePublished: '2016-01-25T16:18:53.296Z'
+dateModified: '2016-01-25T16:18:49.105Z'
 title: 'Pluto - ensemble sings together with Hathor Consort in several Programs :'
 author: []
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
@@ -26,11 +26,11 @@ _type: WebPage
 
 ## 
 
-## 
+## ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2833a5b9-7b48-4da5-bf82-4ce82da5bb5e.jpg)
 
 ## "Voyces & Viols !"
 
-Jacobean Consortmusik  _(Tomkins, Gibbons...)_
+Jacobean Consort-musik  _(Tomkins, Gibbons a.o.)_
 
 ## "Animam gementem cano"
 
@@ -43,4 +43,3 @@ Music & Unity...   ___(Schutz-Schein-Scheidt-Brade)_
 ## "Aquarius-Passion"
 
 Music for humanity at its turning point   (M. De Cat)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2833a5b9-7b48-4da5-bf82-4ce82da5bb5e.jpg)
