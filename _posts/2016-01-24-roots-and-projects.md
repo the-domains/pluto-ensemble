@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T14:59:32.920Z'
-dateModified: '2016-01-25T14:59:29.850Z'
+datePublished: '2016-01-25T16:48:36.969Z'
+dateModified: '2016-01-25T16:48:35.428Z'
 title: 'ROOTS & Projects'
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
@@ -33,11 +33,11 @@ the most surprising vocal musik around 1400
 
 ## "EarthQuake !"  
 
-Missa 'et in terra motus' (Brumel) and repetitive music  (Glass, De Cat)
+Missa 'et in terra motus' (_Brumel_) and repetitive music  (_Glass, De Cat_)
 
 ## "Jihad, inner cruisades?" 
 
-'l'Homme armé'-fragments and new music !
+'l'Homme armé'-fragments from _Alamire__Ms_ and new music !
 
 ## "Aquarius-passion"
 
@@ -63,7 +63,7 @@ Bach & Text-relation
 
 ## "L'espoir du cuer"  
 
-Ars Nova-program from the Chantilly-codex (14th C.)
+Ars Nova-program from the _Chantilly-codex_ (14th C.)
 
 ## "the 'English' Felix Mendelssohn" 
 
