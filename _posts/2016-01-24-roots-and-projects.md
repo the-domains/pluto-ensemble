@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T01:55:50.630Z'
-dateModified: '2016-01-25T01:55:13.454Z'
+datePublished: '2016-01-25T02:01:14.333Z'
+dateModified: '2016-01-25T01:57:02.171Z'
 title: 'ROOTS & Projects'
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
@@ -25,17 +25,9 @@ _type: WebPage
 ## Polyfonic Music then and now...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d234bc7a-dbcc-46cc-bc8c-ce7c61cc0ac2.jpg)
 
-## "Voyces & Viols!"    
-
-Jacobean Consort-Anthems & Madrigals    (Tomkins, Gibbons...)
-
 ## "Ars subtilior, modern antiquity" 
 
 the most surprising vocal musik around 1400
-
-## "Animam gementem cano"
-
-Requiem / Biber,  Schmelzer, Colonna and WORLD-premiere of a "Stabat Mater" by Fr. Tuma.
 
 ## vocal soloists :
 
