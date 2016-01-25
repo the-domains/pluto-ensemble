@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T02:01:14.333Z'
-dateModified: '2016-01-25T01:57:02.171Z'
+datePublished: '2016-01-25T02:05:19.125Z'
+dateModified: '2016-01-25T02:05:11.984Z'
 title: 'ROOTS & Projects'
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
@@ -33,47 +33,25 @@ the most surprising vocal musik around 1400
 
 Doro Mields, Griet De Geyter, Annelies Van Gramberen, Lore Binon, Marnix De Cat, Kevin Skelton, Thomas Hobbs, Vincent lesage, Tiemo Wang, Harry VanderKamp
 
-Other Programs :
+## "EarthQuake !"  
 
-"EarthQuake !"  
+Missa 'et in terra motus' (Brumel) and repetitive music  (Glass, De Cat)
 
-Missa 'et in terra motus' (Brumel) and repetitive music 
+## "Jihad, inner cruisades?" 
 
-(Glass, Muhly, De Cat)
+'l'Homme armé'-fragments and new music !
 
-"
+## "O belleza vitale, O belleza mortale !"  
 
-"Jihad"
+Madrigals in Ferrara, ca. 1580  (Marenzio, Luzzaschi..)
 
-inner cruisades? 
-
-'l'Homme armé'-fragments 
-
-and new music !
-
-"5+5=10"    Music & Unity :  
-
-Schütz, Schein, Scheidt & Brade
-
-"O belleza vitale, 
-
-O belleza mortale !"  
-
-Madrigals in Ferrara, ca. 1580  
-
-(Marenzio, Luzzaschi..)
-
-"Bach-Kantatas in Leuven"
-
-with young singers and instrumentists
-
-"Aan de slag met Bach"
+## "Aan de slag met Bach"
 
 An improvisation-Workshop on Bach's  inventions
 
 for young musicians from musicschools, and jazz- and rock-formations
 
-"Symposium: the universal Bach"
+## "Symposium: the universal Bach"
 
 Bach & Text-relation
 
@@ -85,18 +63,14 @@ Kantata-project
 
 J.S. Bach
 
-"
-
-L'espoir du cuer"  
+## "L'espoir du cuer"  
 
 Ars Nova-program from the Chantilly-codex (14th C.)
 
-"the 'English' Felix Mendelssohn" 
+## "the 'English' Felix Mendelssohn" 
 
 anthems - Magnificat...
 
-"Aquariuspassie"
+## "Aquariuspassie"
 
-M. De Cat  
-
-Music for humanity at its turningpoint
+Music for humanity at its turningpoint  (M. De Cat)
