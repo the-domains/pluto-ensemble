@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T16:48:37.108Z'
-dateModified: '2016-01-25T16:48:35.428Z'
+datePublished: '2016-01-25T21:10:12.252Z'
+dateModified: '2016-01-25T21:09:55.919Z'
 title: 'ROOTS & Projects'
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
@@ -23,9 +23,9 @@ _type: WebPage
 
 ---
 ## Polyfonic Music then and now...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d234bc7a-dbcc-46cc-bc8c-ce7c61cc0ac2.jpg)
 
 _vocal soloists : __Doro Mields, Griet De Geyter, Annelies Van Gramberen, Lore Binon, Katelijne Van Laethem, Marnix De Cat, Kevin Skelton, Thomas Hobbs, Vincent Lesage, Adriaan De Koster, Tiemo Wang, Harry van der Kamp, Arnout Malfliet ..._
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d234bc7a-dbcc-46cc-bc8c-ce7c61cc0ac2.jpg)
 
 ## "Ars subtilior, modern antiquity" 
 
