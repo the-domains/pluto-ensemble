@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ©Yves Gervais
-datePublished: '2016-01-25T14:41:32.136Z'
-dateModified: '2016-01-25T14:40:58.333Z'
+datePublished: '2016-01-25T14:43:04.937Z'
+dateModified: '2016-01-25T14:43:00.438Z'
 title: 'Pluto - ensemble sings together with Hathor Consort in several Programs :'
 author: []
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
@@ -23,6 +23,8 @@ _type: WebPage
 
 ---
 # Pluto - ensemble sings together with Hathor Consort in several Programs :
+
+## 
 
 ## 
 
