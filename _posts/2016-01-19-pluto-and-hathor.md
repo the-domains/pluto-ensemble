@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ©Yves Gervais
-datePublished: '2016-01-25T03:02:15.900Z'
-dateModified: '2016-01-25T03:02:13.424Z'
+datePublished: '2016-01-25T03:05:20.123Z'
+dateModified: '2016-01-25T03:05:16.975Z'
 title: 'The Pluto - ensemble works together with the Hathor Consort in several Programs :'
 author: []
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
@@ -34,7 +34,7 @@ Requiem_(Biber) - Schmelzer, Clamer - Premiere '_Stabat Mater' _(F. Tuma)_
 
 ## "5 + 5 = 10" 
 
-Music & Unity...___(Schutz-Schein-Scheidt-Brade)_
+Music & Unity...   ___(Schutz-Schein-Scheidt-Brade)_
 
 ## "Aquarius-Passion"
 
