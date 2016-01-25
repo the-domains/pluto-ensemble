@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ©Yves Gervais
-datePublished: '2016-01-25T03:05:20.184Z'
-dateModified: '2016-01-25T03:05:16.975Z'
-title: 'The Pluto - ensemble works together with the Hathor Consort in several Programs :'
+datePublished: '2016-01-25T03:07:36.874Z'
+dateModified: '2016-01-25T03:07:33.335Z'
+title: 'The Pluto - ensemble sings together with the Hathor Consort in several Programs :'
 author: []
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
 published: true
@@ -22,7 +22,7 @@ url: pluto-and-hathor/index.html
 _type: WebPage
 
 ---
-# The Pluto - ensemble works together with the Hathor Consort in several Programs :
+# The Pluto - ensemble sings together with the Hathor Consort in several Programs :
 
 ## "Voyces & Viols !"
 
