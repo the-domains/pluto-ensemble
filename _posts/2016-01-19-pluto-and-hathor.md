@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T21:04:08.442Z'
-dateModified: '2016-01-25T21:04:05.587Z'
+datePublished: '2016-01-26T14:15:09.396Z'
+dateModified: '2016-01-26T14:15:08.320Z'
 title: 'Pluto & Hathor'
 author: []
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
@@ -44,4 +44,4 @@ Music & Unity...   ___(Schutz-Schein-Scheidt-Brade)_
 
 ## "Aquarius-Passion"
 
-Music for humanity at its turning point   (M. De Cat)
+Music for humanity at its turning point   (_M. De Cat_)
