@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T13:27:16.234Z'
-dateModified: '2016-01-26T13:24:40.250Z'
+datePublished: '2016-01-26T13:27:26.321Z'
+dateModified: '2016-01-26T13:27:21.826Z'
 title: "Foto's"
 author: []
 sourcePath: _posts/2016-01-26-impressions-.md
@@ -28,7 +28,6 @@ _type: WebPage
 ## Fun ;-)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5f03a1c-dfca-4d07-add6-ffe321e18c59.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89366d7a-cfc8-425a-ba2e-765117fc7181.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cee7fb1-0bc1-4854-b839-b62a5eafdc2d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d59cb16-87f9-4dc4-a581-eeb99c9bd092.jpg)
 
 ## Good Food :-)
