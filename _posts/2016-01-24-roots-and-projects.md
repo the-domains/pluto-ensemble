@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T21:10:12.454Z'
-dateModified: '2016-01-25T21:09:55.919Z'
-title: 'ROOTS & Projects'
+datePublished: '2016-01-26T08:35:43.723Z'
+dateModified: '2016-01-26T08:35:40.285Z'
+title: 'Roots & Projects'
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
 published: true
