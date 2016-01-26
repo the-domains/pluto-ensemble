@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T11:48:36.055Z'
-dateModified: '2016-01-26T11:48:31.279Z'
+datePublished: '2016-01-26T11:48:47.377Z'
+dateModified: '2016-01-26T11:48:41.721Z'
 title: Impressions ;-)
 author: []
 sourcePath: _posts/2016-01-26-impressions-.md
