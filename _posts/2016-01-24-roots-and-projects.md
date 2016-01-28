@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T08:35:43.829Z'
-dateModified: '2016-01-26T08:35:40.285Z'
+datePublished: '2016-01-28T11:33:29.158Z'
+dateModified: '2016-01-28T11:31:49.460Z'
 title: 'Roots & Projects'
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
@@ -30,6 +30,10 @@ _vocal soloists : __Doro Mields, Griet De Geyter, Annelies Van Gramberen, Lore B
 ## "Ars subtilior, modern antiquity" 
 
 the most surprising vocal musik around 1400
+
+## "L'espoir du cuer"  
+
+Ars Nova-program from the _Chantilly-codex_(14th C.)
 
 ## "EarthQuake !"  
 
@@ -57,16 +61,10 @@ An improvisation-Workshop on Bach's  inventions
 
 for young musicians from musicschools, and jazz- and rock-formations
 
-## "Symposium: the universal Bach"
+## "Renaissance Impro"
 
-Bach & Text-relation
-
-## "L'espoir du cuer"  
-
-Ars Nova-program from the _Chantilly-codex_ (14th C.)
+Workshops for singers...
 
 ## "the 'English' Felix Mendelssohn" 
 
 anthems - Magnificat...
-
-##
