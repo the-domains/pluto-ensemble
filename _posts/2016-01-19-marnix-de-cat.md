@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T15:46:04.125Z'
-dateModified: '2016-01-29T15:46:00.772Z'
-title: www.marnixdecat.be
+datePublished: '2016-01-29T15:50:21.668Z'
+dateModified: '2016-01-29T15:49:32.354Z'
+title: Marnix De Cat
 author: []
 sourcePath: _posts/2016-01-19-marnix-de-cat.md
 published: true
@@ -23,6 +23,6 @@ _type: WebPage
 
 ---
 ## personal website : [www.marnixdecat.be][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33f2b77b-5d39-431b-bba5-2f696a0accfe.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/67ba748940d02a82688ba95c60dbbaef83c1244d.jpg)
 
 [0]: https://thegrid.ai/marnix-de-cat/
