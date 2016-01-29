@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T20:16:58.924Z'
-dateModified: '2016-01-29T20:16:54.868Z'
-title: 'Pluto-Ensemble :'
+datePublished: '2016-01-29T20:31:18.747Z'
+dateModified: '2016-01-29T20:31:14.241Z'
+title: ' '
 author: []
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
 published: true
@@ -22,6 +22,8 @@ url: pluto-ensemble/index.html
 _type: WebPage
 
 ---
+# 
+
 # Pluto-Ensemble :
 
 ## 'Ars Subtilior, Modern Antiquity?'
