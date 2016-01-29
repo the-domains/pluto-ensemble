@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T00:30:34.000Z'
-dateModified: '2016-01-29T00:30:30.923Z'
-title: Marnix De Cat
+datePublished: '2016-01-29T15:46:04.072Z'
+dateModified: '2016-01-29T15:46:00.772Z'
+title: www.marnixdecat.be
 author: []
 sourcePath: _posts/2016-01-19-marnix-de-cat.md
 published: true
