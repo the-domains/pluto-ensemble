@@ -1,6 +1,6 @@
 name: Pluto-ensemble
 favicon: null
-layout_spectrum: 0.75908
+layout_spectrum: 0.9891
 typography_spectrum: 0.59766
 title: Pluto - ensemble
 cta:
@@ -23,7 +23,7 @@ color:
     - '#868b85'
     - '#d2d8ca'
   brandStrength: 0.25
-  lightness: 0.5
+  lightness: 0.625
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
