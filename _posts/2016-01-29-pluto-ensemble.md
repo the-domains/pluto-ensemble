@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T20:15:30.422Z'
-dateModified: '2016-01-29T17:52:49.532Z'
+datePublished: '2016-01-29T20:16:58.924Z'
+dateModified: '2016-01-29T20:16:54.868Z'
 title: 'Pluto-Ensemble :'
 author: []
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
@@ -23,8 +23,6 @@ _type: WebPage
 
 ---
 # Pluto-Ensemble :
-
-## 
 
 ## 'Ars Subtilior, Modern Antiquity?'
 
@@ -50,11 +48,7 @@ The best Polyfony from the fantastic Alamire-Manuscripts :
 
 _6 Singers_
 
-# 
-
 # Pluto  &  Hathor Consort :
-
-## 
 
 ## 'Voyces & Viols'
 
@@ -77,5 +71,3 @@ _5 singers + 5 strings + organ_
 From Italy to England : original Madrigals & Coperario on Viols.
 
 _5 singers + 5 Viols_
-
-#
