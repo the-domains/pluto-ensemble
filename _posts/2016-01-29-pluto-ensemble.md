@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T16:45:57.787Z'
-dateModified: '2016-01-29T16:45:32.197Z'
+datePublished: '2016-01-29T17:03:28.085Z'
+dateModified: '2016-01-29T17:03:23.795Z'
 title: 'Pluto-Ensemble :'
 author: []
+sourcePath: _posts/2016-01-29-pluto-ensemble.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-29-pluto-ensemble.md
-published: true
 url: pluto-ensemble/index.html
 _type: Blurb
 
