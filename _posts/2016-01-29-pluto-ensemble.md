@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T20:31:18.963Z'
-dateModified: '2016-01-29T20:31:14.241Z'
-title: ' '
+datePublished: '2016-01-29T20:36:46.925Z'
+dateModified: '2016-01-29T20:36:38.580Z'
+title: 'Pluto-Ensemble :'
 author: []
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
 published: true
@@ -22,7 +22,7 @@ url: pluto-ensemble/index.html
 _type: WebPage
 
 ---
-# 
+## Project Texts
 
 # Pluto-Ensemble :
 
