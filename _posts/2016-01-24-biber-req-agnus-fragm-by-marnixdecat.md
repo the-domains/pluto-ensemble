@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T13:41:32.243Z'
-dateModified: '2016-01-26T13:41:28.846Z'
+datePublished: '2016-01-29T01:07:20.150Z'
+dateModified: '2016-01-29T01:07:16.526Z'
 author:
   - name: marnixdecat
     url: 'http://soundcloud.com/marnixdecat'
@@ -42,4 +42,4 @@ _context: 'http://schema.org'
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F242720292%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fmarnixdecat%2Fpluto-biber-req-agnus-fragm&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000143751103-ki8695-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8410c80-5fe4-41cd-89d7-82bab8d31300.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2caca5227c0c406f7500f2434ca19465cc00386.jpg)
