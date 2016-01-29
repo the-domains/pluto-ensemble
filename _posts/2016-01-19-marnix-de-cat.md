@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T15:50:21.719Z'
-dateModified: '2016-01-29T15:49:32.354Z'
+datePublished: '2016-01-29T15:54:05.819Z'
+dateModified: '2016-01-29T15:52:39.550Z'
 title: Marnix De Cat
 author: []
 sourcePath: _posts/2016-01-19-marnix-de-cat.md
