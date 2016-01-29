@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T15:50:21.668Z'
+datePublished: '2016-01-29T15:50:21.691Z'
 dateModified: '2016-01-29T15:49:32.354Z'
 title: Marnix De Cat
 author: []
