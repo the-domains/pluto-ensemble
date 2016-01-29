@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T14:17:43.861Z'
-dateModified: '2016-01-26T14:17:40.159Z'
+datePublished: '2016-01-29T01:37:09.583Z'
+dateModified: '2016-01-29T01:37:06.430Z'
 title: 'Pluto & Hathor'
 author: []
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
@@ -22,13 +22,9 @@ url: pluto-and-hathor/index.html
 _type: WebPage
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0dfa173f0ab37e23eba96bcaec80fac01ea2cdc.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1068a8d77f37b83bf547f59d38e8b9aa2f00be96.jpg)
 
 ## Pluto - ensemble sings together with Hathor Consort in several Programs :
-
-## 
-
-## 
 
 ## "Voyces & Viols !"
 
