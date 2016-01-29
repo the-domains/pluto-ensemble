@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T22:08:48.961Z'
+datePublished: '2016-01-29T22:08:49.019Z'
 dateModified: '2016-01-29T22:08:43.010Z'
 title: Project Texts
 author: []
