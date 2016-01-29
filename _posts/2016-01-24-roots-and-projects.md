@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T16:55:57.465Z'
-dateModified: '2016-01-29T16:03:33.374Z'
+datePublished: '2016-01-29T17:00:10.524Z'
+dateModified: '2016-01-29T16:58:31.747Z'
 title: 'Roots & Projects'
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
@@ -43,7 +43,7 @@ Missa 'et in terra motus' (_Brumel_) and repetitive music  (_Glass, De Cat_)
 
 'l'Homme armé'-fragments from _Alamire__Ms_ and new music !
 
-## ["Aquarius-passion"][0]
+## "Aquarius-passion"
 
 Music for humanity at its turningpoint  _(M. De Cat)_
 
@@ -68,5 +68,3 @@ Workshops for singers...
 ## "the 'English' Felix Mendelssohn" 
 
 anthems - Magnificat...
-
-[0]: thegrid.ai/programs
