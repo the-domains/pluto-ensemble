@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: www.marnixdecat.be
-datePublished: '2016-01-31T14:25:42.942Z'
+datePublished: '2016-01-31T14:25:42.892Z'
 dateModified: '2016-01-31T14:25:37.570Z'
 title: MarniX
 author: []
