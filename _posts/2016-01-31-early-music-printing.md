@@ -16,7 +16,7 @@ keywords:
   - wordpress
   - renaissance
 description: ''
-datePublished: '2016-01-31T14:47:23.949Z'
+datePublished: '2016-01-31T14:47:24.020Z'
 dateModified: '2016-01-31T14:47:19.863Z'
 author:
   - name: Luís Henriques
