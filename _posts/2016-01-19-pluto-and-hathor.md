@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T01:37:09.722Z'
-dateModified: '2016-01-29T01:37:06.430Z'
+datePublished: '2016-02-01T10:40:29.660Z'
+dateModified: '2016-02-01T10:30:47.590Z'
 title: 'Pluto & Hathor'
 author: []
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
@@ -26,18 +26,22 @@ _type: WebPage
 
 ## Pluto - ensemble sings together with Hathor Consort in several Programs :
 
-## "Voyces & Viols !"
+**"Voyces & Viols !"**
 
 Jacobean Consort-musik  _(Tomkins, Gibbons a.o.)_
 
-## "Animam gementem cano"
+**"Animam gementem cano"**
 
 Requiem_(Biber) - Schmelzer, Clamer - Premiere '_Stabat Mater' _(F. Tuma)_
 
-## "5 + 5 = 10" 
+**"5 + 5 = 10" **
 
 Music & Unity...   ___(Schutz-Schein-Scheidt-Brade)_
 
-## "Aquarius-Passion"
+**"Aquarius-Passion"**
 
 Music for humanity at its turning point   (_M. De Cat_)
+
+Website Hathor : **[Hathor-Consort.eu][0]**
+
+[0]: http://www.hathor-consort.eu/
