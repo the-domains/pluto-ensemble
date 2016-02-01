@@ -16,7 +16,7 @@ keywords:
   - wordpress
   - renaissance
 description: 'A brief video of how music was printed during the Renaissance, using pieces of type, from the Plantin workshop in Antwerp. http://www.luiscfhenriques.wordpress.com'
-datePublished: '2016-02-01T09:40:56.933Z'
+datePublished: '2016-02-01T09:40:56.975Z'
 dateModified: '2016-02-01T09:40:49.530Z'
 author:
   - name: Luís Henriques
