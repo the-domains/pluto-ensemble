@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T10:40:29.755Z'
-dateModified: '2016-02-01T10:30:47.590Z'
-title: 'Pluto & Hathor'
+datePublished: '2016-02-01T10:43:52.745Z'
+dateModified: '2016-02-01T10:43:49.847Z'
+title: "Website Hathor :\_"
 author: []
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
 published: true
@@ -22,7 +22,7 @@ url: pluto-and-hathor/index.html
 _type: WebPage
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1068a8d77f37b83bf547f59d38e8b9aa2f00be96.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b33626a8dfbf7dc71321328fe9a10b61fa607ba5.jpg)
 
 ## Pluto - ensemble sings together with Hathor Consort in several Programs :
 
@@ -42,6 +42,8 @@ Music & Unity...   ___(Schutz-Schein-Scheidt-Brade)_
 
 Music for humanity at its turning point   (_M. De Cat_)
 
-Website Hathor : **[Hathor-Consort.eu][0]**
+# Website Hathor : 
+
+**[Hathor-Consort.eu][0]**
 
 [0]: http://www.hathor-consort.eu/
