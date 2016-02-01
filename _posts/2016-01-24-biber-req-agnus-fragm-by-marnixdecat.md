@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T11:43:15.138Z'
-dateModified: '2016-02-01T11:43:12.232Z'
+datePublished: '2016-02-01T12:10:13.964Z'
+dateModified: '2016-02-01T12:10:07.364Z'
 author:
   - name: marnixdecat
     url: 'http://soundcloud.com/marnixdecat'
@@ -24,7 +24,7 @@ app_links:
     package: com.soundcloud.android
   - url: 'soundcloud://sounds:242720292'
     type: android
-title: Media
+title: Listen
 sourcePath: _posts/2016-01-24-biber-req-agnus-fragm-by-marnixdecat.md
 published: true
 authors: []
@@ -38,7 +38,7 @@ _type: AudioObject
 _context: 'http://schema.org'
 
 ---
-# Media
+# Listen
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F242720292%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fmarnixdecat%2Fpluto-biber-req-agnus-fragm&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000143751103-ki8695-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
 
