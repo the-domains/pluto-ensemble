@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Fragment from concert Pluto & Hathor, 26/09/2015'
-datePublished: '2016-02-01T15:38:45.779Z'
-dateModified: '2016-02-01T15:38:42.502Z'
+datePublished: '2016-02-01T15:41:32.106Z'
+dateModified: '2016-02-01T15:41:28.498Z'
 author:
   - name: marnixdecat
     url: 'http://soundcloud.com/marnixdecat'
