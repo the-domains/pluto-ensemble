@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T09:34:25.283Z'
-dateModified: '2016-02-01T09:34:21.721Z'
-title: Projects
+datePublished: '2016-02-01T09:36:37.627Z'
+dateModified: '2016-02-01T09:36:37.097Z'
+title: Projects info
 author: []
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
 published: true
@@ -22,7 +22,7 @@ url: pluto-ensemble/index.html
 _type: WebPage
 
 ---
-# Projects
+# Projects info
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74aa79d1-1c37-4d2e-a2bc-8581f8285d3a.jpg)
 
 # Pluto-Ensemble :
