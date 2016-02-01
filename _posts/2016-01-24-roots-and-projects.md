@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T10:58:42.357Z'
-dateModified: '2016-02-01T10:58:39.287Z'
+datePublished: '2016-02-01T11:06:57.510Z'
+dateModified: '2016-02-01T11:05:17.837Z'
 title: 'Roots & Projects'
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
