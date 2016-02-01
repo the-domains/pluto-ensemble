@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: www.marnixdecat.be
-datePublished: '2016-01-31T21:21:23.601Z'
-dateModified: '2016-01-31T21:21:21.661Z'
+datePublished: '2016-02-01T11:07:07.679Z'
+dateModified: '2016-02-01T11:06:14.438Z'
 title: Marnix
 author: []
 sourcePath: _posts/2016-01-19-marnix-de-cat.md
