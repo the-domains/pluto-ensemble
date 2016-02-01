@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T22:16:01.286Z'
-dateModified: '2016-01-31T22:15:59.363Z'
+datePublished: '2016-02-01T09:34:25.102Z'
+dateModified: '2016-02-01T09:34:21.721Z'
 title: Projects
 author: []
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
