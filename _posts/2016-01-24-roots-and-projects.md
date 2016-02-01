@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T09:35:59.855Z'
-dateModified: '2016-02-01T09:35:56.467Z'
-title: 'Roots & Projects'
+datePublished: '2016-02-01T10:36:33.398Z'
+dateModified: '2016-02-01T10:36:29.902Z'
+title: Polyfonic Music then and now...
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
 published: true
@@ -22,10 +22,16 @@ url: roots-and-projects/index.html
 _type: WebPage
 
 ---
-## Polyfonic Music then and now...
+# Polyfonic Music then and now...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d234bc7a-dbcc-46cc-bc8c-ce7c61cc0ac2.jpg)
 
-_vocal soloists : __Doro Mields, Griet De Geyter, Annelies Van Gramberen, Lore Binon, Katelijne Van Laethem, Marnix De Cat, Kevin Skelton, Thomas Hobbs, Vincent Lesage, Adriaan De Koster, Tiemo Wang, Harry van der Kamp, Arnout Malfliet ..._
+_vocal soloists  : _
+
+_Doro Mields, Griet De Geyter, Annelies Van Gramberen, Lore Binon, Katelijne Van Laethem, Marnix De Cat, Kevin Skelton, Thomas Hobbs, Vincent Lesage, Adriaan De Koster, Tiemo Wang, Harry van der Kamp, Arnout Malfliet ..._
+
+## Pluto-ensemble searches in old & new polyphonic music. The adventure of singing each his individual part of the Unity.
+
+# Projects :
 
 ## "Ars subtilior, modern antiquity" 
 
