@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T15:06:56.912Z'
-dateModified: '2016-02-12T15:06:51.884Z'
-title: "Projects info\_"
+datePublished: '2016-02-12T15:49:56.927Z'
+dateModified: '2016-02-12T15:49:53.959Z'
+title: Projects info
 author: []
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
 published: true
@@ -22,7 +22,8 @@ url: pluto-ensemble/index.html
 _type: WebPage
 
 ---
-# Projects info ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74aa79d1-1c37-4d2e-a2bc-8581f8285d3a.jpg)
+# Projects info
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74aa79d1-1c37-4d2e-a2bc-8581f8285d3a.jpg)
 
 **_Pluto-Ensemble :_**
 
@@ -52,11 +53,13 @@ __
 
 __
 
+__
+
 _**Pluto  &  Hathor Consort :**_
 
 ## 'Voyces & Viols'
 
-Open my heart, mind & lips...
+Open my Heart, Mind & Lips...
 
 Thomas Tomkins & contemporaries
 
@@ -76,7 +79,7 @@ From Italy to England : original Madrigals & Coperario on Viols.
 
 _5 singers + 5 Viols_
 
-## 'Aquarius-passie'
+## 'Aquarius-passion'
 
 Music for mankind at its turning point.
 
