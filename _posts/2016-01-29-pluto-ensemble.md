@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T14:44:40.436Z'
-dateModified: '2016-02-12T14:44:38.078Z'
+datePublished: '2016-02-12T15:06:56.912Z'
+dateModified: '2016-02-12T15:06:51.884Z'
 title: "Projects info\_"
 author: []
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
@@ -34,7 +34,7 @@ _4 singers_
 
 ## 'EARTHQUAKE !'
 
-Around Brumel's fascinating 12-voiced Mass ('Et ecce terrae motus')  and 'its' minimal music !
+Around Brumel's fascinating 12-voiced Mass 'Et ecce terrae motus' and 'its' minimal music!
 
 (A. Brumel, arrangements & new Music : Marnix De Cat)
 
