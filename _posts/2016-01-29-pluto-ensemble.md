@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T14:09:35.185Z'
-dateModified: '2016-02-12T14:09:32.488Z'
-title: Projects info
+datePublished: '2016-02-12T14:28:24.497Z'
+dateModified: '2016-02-12T14:28:21.716Z'
+title: "Projects info\_"
 author: []
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
 published: true
@@ -22,24 +22,21 @@ url: pluto-ensemble/index.html
 _type: WebPage
 
 ---
-# Projects info
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74aa79d1-1c37-4d2e-a2bc-8581f8285d3a.jpg)
+# Projects info ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74aa79d1-1c37-4d2e-a2bc-8581f8285d3a.jpg)
 
-# Pluto-Ensemble :
+**_Pluto-Ensemble :_**
 
 ## 'Ars Subtilior, Modern Antiquity?'
 
 Around 1400 there was a fascinating stream composers using all the 'new' possibilities of writing down all kinds of rythms and melodies, called the 'Ars subtilior', even in our ears today sounding as contemporary music : Solage, Ciconia, Hasprois, Machaut, Velu...
 
-Let your imagination go with the flow of this early 15th century modernism !
-
-_4 Singers_
+_4 singers_
 
 ## 'EARTHQUAKE !'
 
-Around Brumels' fascinating 12-voiced Mass (Et in terra motus) and 'its' minimal music !
+Around Brumel's  fascinating 12-voiced Mass ('Et ecce terrae motus')     and 'its' minimal music !
 
-(arrangements & new Music : Marnix De Cat)
+(Brumel, arrangements & new Music : Marnix De Cat)
 
 _7 singers + 5 instruments_
 
@@ -47,11 +44,13 @@ _7 singers + 5 instruments_
 
 The best Polyfony from the fantastic Alamire-Manuscripts :
 
-'homme armé'-masses and chansons
+'Homme armé' - masses and chansons
 
 _6 Singers_
 
-# Pluto  &  Hathor Consort :
+__
+
+_**Pluto  &  Hathor Consort :**_
 
 ## 'Voyces & Viols'
 
@@ -74,3 +73,13 @@ _5 singers + 5 strings + organ_
 From Italy to England : original Madrigals & Coperario on Viols.
 
 _5 singers + 5 Viols_
+
+## 'Aquarius-passie'
+
+Music for mankind at its turning point.
+
+'New Polyphony' refracting 'Pater noster'  - M. De Cat
+
+_5 singers + 4 viols, lute, organ/celesta_
+
+__
