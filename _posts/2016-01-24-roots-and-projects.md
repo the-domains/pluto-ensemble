@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T15:47:06.073Z'
-dateModified: '2016-02-01T15:46:42.607Z'
+datePublished: '2016-02-12T15:53:25.689Z'
+dateModified: '2016-02-12T15:53:23.334Z'
 title: 'Roots & Projects'
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
@@ -24,14 +24,14 @@ _type: WebPage
 ---
 # Roots & Projects
 
-## Polyfonic Music then and now...
+## Polyphonic Music, then and now...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d234bc7a-dbcc-46cc-bc8c-ce7c61cc0ac2.jpg)
 
 _vocal soloists  : _
 
-_Doro Mields, Griet De Geyter, Annelies Van Gramberen, Lore Binon, Katelijne Van Laethem, Marnix De Cat, Kevin Skelton, Thomas Hobbs, Vincent Lesage, Adriaan De Koster, Tiemo Wang, Harry van der Kamp, Arnout Malfliet ..._
+_Doro Mields, Griet De Geyter, Annelies Van Gramberen, Lore Binon, Katelijne Van Laethem, Marnix De Cat, Kevin Skelton, Thomas Hobbs, Reinoud Van Mechelen, Vincent Lesage, Adriaan De Koster, Tiemo Wang, Harry van der Kamp, Arnout Malfliet ..._
 
-## Pluto-ensemble searches in old & new polyphonic music. The adventure of each singing his individual part of the Unity.
+## Pluto-ensemble searches in old & new polyphonic music. The adventure of each, singing his individual part of the Unity.
 
 # Projects :
 
