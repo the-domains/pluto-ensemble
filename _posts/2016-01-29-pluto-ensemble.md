@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T14:28:24.497Z'
-dateModified: '2016-02-12T14:28:21.716Z'
+datePublished: '2016-02-12T14:44:40.436Z'
+dateModified: '2016-02-12T14:44:38.078Z'
 title: "Projects info\_"
 author: []
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
@@ -34,19 +34,21 @@ _4 singers_
 
 ## 'EARTHQUAKE !'
 
-Around Brumel's  fascinating 12-voiced Mass ('Et ecce terrae motus')     and 'its' minimal music !
+Around Brumel's fascinating 12-voiced Mass ('Et ecce terrae motus')  and 'its' minimal music !
 
-(Brumel, arrangements & new Music : Marnix De Cat)
+(A. Brumel, arrangements & new Music : Marnix De Cat)
 
 _7 singers + 5 instruments_
 
 ## 'JIHAD or l'homme armé '
 
-The best Polyfony from the fantastic Alamire-Manuscripts :
+The best Polyphony from the fantastic Alamire-Manuscripts :
 
 'Homme armé' - masses and chansons
 
 _6 Singers_
+
+__
 
 __
 
@@ -78,7 +80,7 @@ _5 singers + 5 Viols_
 
 Music for mankind at its turning point.
 
-'New Polyphony' refracting 'Pater noster'  - M. De Cat
+'New Polyphony' refracting the 'Pater noster'  - M. De Cat
 
 _5 singers + 4 viols, lute, organ/celesta_
 
