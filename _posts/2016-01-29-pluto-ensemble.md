@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T15:49:56.927Z'
-dateModified: '2016-02-12T15:49:53.959Z'
+datePublished: '2016-02-17T15:08:59.418Z'
+dateModified: '2016-02-17T15:08:55.615Z'
 title: Projects info
 author: []
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
@@ -48,6 +48,8 @@ The best Polyphony from the fantastic Alamire-Manuscripts :
 'Homme armé' - masses and chansons
 
 _6 Singers_
+
+__
 
 __
 
