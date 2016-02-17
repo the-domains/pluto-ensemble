@@ -17,8 +17,8 @@ keywords:
   - hathor
   - vimeo
 description: 'Pluto-ensemble & Hathor Consort trailer concert 9/2015 Schmelzer, Clamer, Requiem - Biber, (Worldpremière) Stabat Mater - Tuma'
-datePublished: '2016-02-17T10:57:47.800Z'
-dateModified: '2016-02-17T10:57:42.076Z'
+datePublished: '2016-02-17T11:02:26.032Z'
+dateModified: '2016-02-17T11:02:22.830Z'
 author:
   - name: Marnix De Cat
     url: 'http://vimeo.com/user1026464'
@@ -35,14 +35,14 @@ app_links:
     app_name: Vimeo
     package: com.vimeo.android.videoapp
 title: Trailer Pluto-Hathor
+sourcePath: _posts/2016-02-17-trailer-pluto-hathor.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-02-17-trailer-pluto-hathor.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
