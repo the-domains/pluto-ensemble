@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T11:50:35.392Z'
-dateModified: '2016-02-21T11:50:27.223Z'
-title: Roots
+datePublished: '2016-02-21T11:51:45.167Z'
+dateModified: '2016-02-21T11:51:44.749Z'
+title: Variable Vocal Ensemble
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
 published: true
@@ -22,6 +22,8 @@ publisher:
 _type: Blurb
 
 ---
+# Variable Vocal Ensemble
+
 # Roots
 
 ## Polyphonic Music,  then and now...
