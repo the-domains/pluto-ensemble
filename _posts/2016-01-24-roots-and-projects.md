@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T12:49:37.566Z'
-dateModified: '2016-02-21T12:49:35.754Z'
+datePublished: '2016-02-21T12:52:46.659Z'
+dateModified: '2016-02-21T12:50:54.747Z'
 title: Variable Vocal Ensemble
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
@@ -25,9 +25,9 @@ _type: Blurb
 # Variable Vocal Ensemble
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e161f29b468f950dce75fdfbaeb703495a74f61.jpg)
 
-# singing music from middle ages till now.   
+## singing music from middle ages till now.
 
-Inspirator, conductor, and/or singer **Marnix De Cat** founded the ensemble to perform music based on Truth of the human being, with a message of beauty and joy. In times of mondial disturbance the idea is to have a good influence both on musicians and public, by programming, playing and explaining music in its context. Let's eliminate the disturbance by exploring and working on the cause, this means our own self... The name comes from the 'dwarf'-planet  'Pluto', the third mistery-planet of the Aquarius-era. After Uranus and Neptunus, influencing the heart and the mind, Pluto is the re-creator of man as a higher being. __
+Inspirator, conductor, and/or singer **Marnix De Cat** founded the ensemble to perform music based on Truth of the human being, with a message of beauty and joy. In times of mondial disturbance the idea is to have a good influence both on musicians and public, by programming, playing and explaining music in its context. Let's eliminate the disturbance by exploring and working on the cause, this means our own self... The name comes from the 'dwarf'-planet  'Pluto', the third mistery-planet of the Aquarius-era. After Uranus and Neptunus, influencing the heart and the mind, Pluto is the re-creator of man as a higher being. 
 
 _The Cloud Upon the Sanctuary -  K. Eckartshausen  (Letter 3)_
 
