@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T11:12:58.035Z'
-dateModified: '2016-02-21T11:12:57.126Z'
+datePublished: '2016-02-21T11:33:59.813Z'
+dateModified: '2016-02-21T11:33:59.223Z'
 title: Projects
 author: []
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
@@ -56,8 +56,6 @@ Music for mankind at its turning point.
 'New Polyphony' refracting the 'Pater noster'  - M. De Cat
 
 _5 singers + 4 viols, lute, organ/celesta_
-
-# 
 
 # Pluto-Ensemble :
 
@@ -114,8 +112,6 @@ __
 __
 
 __
-
-# 
 
 __
 
