@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T11:06:00.450Z'
-dateModified: '2016-02-21T11:05:57.550Z'
+datePublished: '2016-02-21T11:47:00.587Z'
+dateModified: '2016-02-21T11:43:48.818Z'
 title: Roots
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: roots-and-projects/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Roots
