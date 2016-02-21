@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T15:08:59.418Z'
-dateModified: '2016-02-17T15:08:55.615Z'
+datePublished: '2016-02-21T10:00:12.922Z'
+dateModified: '2016-02-21T09:59:45.023Z'
 title: Projects info
 author: []
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
@@ -67,7 +67,7 @@ Thomas Tomkins & contemporaries
 
 _5 singers + 5 Viols_
 
-## 'Animam gementem cano'
+## ['Animam gementem cano'][0]
 
 Composers round the Habsbourg Court in Vienna :
 
@@ -90,3 +90,5 @@ Music for mankind at its turning point.
 _5 singers + 4 viols, lute, organ/celesta_
 
 __
+
+[0]: https://app.thegrid.io/posts/c074a40a-ba49-47a5-bc81-97743f8edc32/edit
