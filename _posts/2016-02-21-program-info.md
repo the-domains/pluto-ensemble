@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T12:57:01.804Z'
-dateModified: '2016-02-21T12:56:58.130Z'
+datePublished: '2016-02-21T13:04:35.562Z'
+dateModified: '2016-02-21T13:04:21.354Z'
 title: program info
 author: []
 sourcePath: _posts/2016-02-21-program-info.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: program-info/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 ## Voyces & Viols
