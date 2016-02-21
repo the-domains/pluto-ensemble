@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T12:48:48.504Z'
-dateModified: '2016-02-21T12:48:48.226Z'
+datePublished: '2016-02-21T12:49:37.566Z'
+dateModified: '2016-02-21T12:49:35.754Z'
 title: Variable Vocal Ensemble
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
