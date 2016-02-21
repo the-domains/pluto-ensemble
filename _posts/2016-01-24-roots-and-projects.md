@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T12:44:22.396Z'
-dateModified: '2016-02-21T12:44:13.740Z'
+datePublished: '2016-02-21T12:48:48.504Z'
+dateModified: '2016-02-21T12:48:48.226Z'
 title: Variable Vocal Ensemble
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
@@ -23,11 +23,15 @@ _type: Blurb
 
 ---
 # Variable Vocal Ensemble
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43732338-0d5d-46cb-8bfc-9981712c5c6a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e161f29b468f950dce75fdfbaeb703495a74f61.jpg)
 
 # singing music from middle ages till now.   
 
-# Inspirator, conductor, and/or singer**Marnix De Cat** founded the ensemble to perform music based on Truth of the human being, with a message of beauty and joy. In times of mondial disturbance the idea is to have a good influence both on musicians and public, by programming, playing and explaining music in its context. Let's eliminate the disturbance by exploring and working on the cause, this means our own self... The name comes from the 'dwarf'-planet  'Pluto', the third mistery-planet of the Aquarius-era. After Uranus and Neptunus, influencing the heart and the mind, Pluto is the re-creator of man as a higher being. _The Cloud Upon the Sanctuary -  K. Eckartshausen  (Letter 3)__"Our desire, our aim, our office is to revivify the dead letter, and to spiritualise the symbols,  turn the passive into the active, death into life;  but this we cannot do by ourselves, but through the spirit of light of Him who is Wisdom and the Light of the world."_
+Inspirator, conductor, and/or singer **Marnix De Cat** founded the ensemble to perform music based on Truth of the human being, with a message of beauty and joy. In times of mondial disturbance the idea is to have a good influence both on musicians and public, by programming, playing and explaining music in its context. Let's eliminate the disturbance by exploring and working on the cause, this means our own self... The name comes from the 'dwarf'-planet  'Pluto', the third mistery-planet of the Aquarius-era. After Uranus and Neptunus, influencing the heart and the mind, Pluto is the re-creator of man as a higher being. __
+
+_The Cloud Upon the Sanctuary -  K. Eckartshausen  (Letter 3)_
+
+_"Our desire, our aim, our office is to revivify the dead letter, and to spiritualise the symbols,  turn the passive into the active, death into life;  but this we cannot do by ourselves, but through the spirit of light of Him who is Wisdom and the Light of the world."_
 
 # Roots
 
