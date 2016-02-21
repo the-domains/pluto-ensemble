@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T12:03:42.242Z'
-dateModified: '2016-02-21T12:03:35.920Z'
+datePublished: '2016-02-21T12:46:36.586Z'
+dateModified: '2016-02-21T12:46:34.216Z'
 title: Program info
 author: []
 sourcePath: _posts/2016-02-21-program-info.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: program-info/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 ## ' Animam gementem cano '
