@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T12:46:43.224Z'
-dateModified: '2016-02-21T12:46:29.964Z'
+datePublished: '2016-02-21T12:57:01.804Z'
+dateModified: '2016-02-21T12:56:58.130Z'
 title: program info
 author: []
 sourcePath: _posts/2016-02-21-program-info.md
