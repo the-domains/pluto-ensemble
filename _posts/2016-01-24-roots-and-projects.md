@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T15:53:25.689Z'
-dateModified: '2016-02-12T15:53:23.334Z'
-title: 'Roots & Projects'
+datePublished: '2016-02-21T10:52:23.674Z'
+dateModified: '2016-02-21T10:52:23.501Z'
+title: Roots
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
 published: true
@@ -22,9 +22,9 @@ url: roots-and-projects/index.html
 _type: WebPage
 
 ---
-# Roots & Projects
+# Roots
 
-## Polyphonic Music, then and now...
+## Polyphonic Music,  then and now...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d234bc7a-dbcc-46cc-bc8c-ce7c61cc0ac2.jpg)
 
 _vocal soloists  : _
@@ -33,46 +33,6 @@ _Doro Mields, Griet De Geyter, Annelies Van Gramberen, Lore Binon, Katelijne Van
 
 ## Pluto-ensemble searches in old & new polyphonic music. The adventure of each, singing his individual part of the Unity.
 
-# Projects :
+Pluto-ensemble with Marnix' skills in the early tradition of the Franco-Flemish Polyphony, Pluto-ensemble wants to open other musical fields. From the 14th century Ars Nova and Ars Subtilior, over the Golden Renaissance from Flanders to Italy, France, Germany and England, Polyphony keeps up its remarkable and exciting way to tease the ears. Over classical polyphonic structures we also pass the Barock-period and meet Fux, Biber, Tuma, Bach...  Ending in contemporary polyphonic music in minimal and repetitive music. All the way the sound of polyphony sets each individual musician at a point of surrender to the unity of the sound, keeping his own flow and identity. What a joy to join that music making, what a feast to listen too :-)
 
-## "Ars subtilior, modern antiquity" 
-
-the most surprising vocal musik around 1400
-
-## "L'espoir du cuer"  
-
-Ars Nova-program from the _Chantilly-codex_(14th C.)
-
-## "EarthQuake !"  
-
-Missa 'et in terra motus' (_Brumel_) and repetitive music  (_Glass, De Cat_)
-
-## "Jihad, inner cruisades?" 
-
-'l'Homme armé'-fragments from _Alamire__Ms_ and new music !
-
-## "Aquarius-passion"
-
-Music for humanity at its turningpoint  _(M. De Cat)_
-
-## "O belleza vitale, O belleza mortale !"  
-
-Madrigals in Ferrara, ca. 1580  _(Marenzio, Luzzaschi..)_
-
-## "T' amo, mia vita !"
-
-"Love, death, and re-naissance"   'Italian Madrigals at the court of Christian 4 in Denmark.  _(Borgrevick, Pederson, Marenzio, Luzzaschi, De Wert)_
-
-## "Aan de slag met Bach"
-
-An improvisation-Workshop on Bach's  inventions
-
-for young musicians from musicschools, and jazz- and rock-formations
-
-## "Renaissance Impro"
-
-Workshops for singers...
-
-## "the 'English' Felix Mendelssohn" 
-
-anthems - Magnificat...
+#
