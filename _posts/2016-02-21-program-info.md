@@ -6,24 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T09:52:42.636Z'
-dateModified: '2016-02-21T09:52:27.723Z'
+datePublished: '2016-02-21T09:58:44.275Z'
+dateModified: '2016-02-21T09:58:43.867Z'
 title: Program info
 author: []
+sourcePath: _posts/2016-02-21-program-info.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-21-program-info.md
-published: true
 url: program-info/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9939f3dc-c311-4d93-863a-62fb25d89387.jpg)
-
 ## ' Animam gementem cano '
 
 'Animam gementem cano' (I sing of the sighing soul) takes us on a journey through many of life's most important events. We come face to face with life and death (Requiem), and with Maria weeping at the cross (Stabat Mater), guiding us along the life-long path to self-consciousness. 'Maria' allows our soul to connect with peace and harmony, far away from the turbulent world of every day existence. The crying soul once again discovers its original state. Hope returns out of the psalm 109\.
