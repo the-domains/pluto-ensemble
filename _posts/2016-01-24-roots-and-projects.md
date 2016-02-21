@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T10:52:23.674Z'
-dateModified: '2016-02-21T10:52:23.501Z'
+datePublished: '2016-02-21T11:06:00.450Z'
+dateModified: '2016-02-21T11:05:57.550Z'
 title: Roots
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
@@ -33,6 +33,4 @@ _Doro Mields, Griet De Geyter, Annelies Van Gramberen, Lore Binon, Katelijne Van
 
 ## Pluto-ensemble searches in old & new polyphonic music. The adventure of each, singing his individual part of the Unity.
 
-Pluto-ensemble with Marnix' skills in the early tradition of the Franco-Flemish Polyphony, Pluto-ensemble wants to open other musical fields. From the 14th century Ars Nova and Ars Subtilior, over the Golden Renaissance from Flanders to Italy, France, Germany and England, Polyphony keeps up its remarkable and exciting way to tease the ears. Over classical polyphonic structures we also pass the Barock-period and meet Fux, Biber, Tuma, Bach...  Ending in contemporary polyphonic music in minimal and repetitive music. All the way the sound of polyphony sets each individual musician at a point of surrender to the unity of the sound, keeping his own flow and identity. What a joy to join that music making, what a feast to listen too :-)
-
-#
+The Pluto-ensemble, with its inspirator Marnix De Cat grounded in the early tradition of the Franco-Flemish Polyphony, also wants to open other musical fields. From the 14th century Ars Nova and Ars Subtilior, over the Golden Renaissance from Flanders to Italy, France, Germany and England, Polyphony keeps up its remarkable and exciting way to tease the ears. Over classical polyphonic structures we also pass the Barock-period and meet Fux, Biber, Tuma, Bach...  Ending in contemporary polyphonic music in minimal and repetitive music. All the way the sound of polyphony sets each individual musician at a point of surrender to the unity of the sound, keeping his own flow and identity. What a joy to join that music making, what a feast to listen too :-)
