@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T10:00:12.922Z'
-dateModified: '2016-02-21T09:59:45.023Z'
+datePublished: '2016-02-21T10:05:24.086Z'
+dateModified: '2016-02-21T10:03:11.955Z'
 title: Projects info
 author: []
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
@@ -59,7 +59,7 @@ __
 
 _**Pluto  &  Hathor Consort :**_
 
-## 'Voyces & Viols'
+## ['Voyces & Viols'][0]
 
 Open my Heart, Mind & Lips...
 
@@ -67,7 +67,7 @@ Thomas Tomkins & contemporaries
 
 _5 singers + 5 Viols_
 
-## ['Animam gementem cano'][0]
+## ['Animam gementem cano'][1]
 
 Composers round the Habsbourg Court in Vienna :
 
@@ -91,4 +91,5 @@ _5 singers + 4 viols, lute, organ/celesta_
 
 __
 
-[0]: https://app.thegrid.io/posts/c074a40a-ba49-47a5-bc81-97743f8edc32/edit
+[0]: https://app.thegrid.io/posts/c074a40a-ba49-47a5-bc81-97743f8edc32
+[1]: https://app.thegrid.io/posts/c074a40a-ba49-47a5-bc81-97743f8edc32/edit
