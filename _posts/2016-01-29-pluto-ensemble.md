@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T10:59:39.157Z'
-dateModified: '2016-02-21T10:59:38.553Z'
+datePublished: '2016-02-21T11:12:58.035Z'
+dateModified: '2016-02-21T11:12:57.126Z'
 title: Projects
 author: []
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
@@ -25,6 +25,40 @@ _type: WebPage
 # Projects
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74aa79d1-1c37-4d2e-a2bc-8581f8285d3a.jpg)
 
+# Pluto  &  Hathor Consort :
+
+## ['Voyces & Viols'][0]
+
+Open my Heart, Mind & Lips...
+
+Thomas Tomkins & contemporaries
+
+_5 singers + 5 Viols_
+
+## ['Animam gementem cano'][0]
+
+Composers round the Habsbourg Court in Vienna :
+
+Requiem-Biber / Schmelzer / Stabat Mater _(Premiere!)_- Tuma
+
+_5 singers + 5 strings + organ_
+
+## 'Madrigals & Viols'
+
+From Italy to England : original Madrigals & Coperario on Viols.
+
+_5 singers + 5 Viols_
+
+## 'Aquarius-passion'
+
+Music for mankind at its turning point.
+
+'New Polyphony' refracting the 'Pater noster'  - M. De Cat
+
+_5 singers + 4 viols, lute, organ/celesta_
+
+# 
+
 # Pluto-Ensemble :
 
 ## 'Ars Subtilior, Modern Antiquity?'
@@ -36,6 +70,8 @@ _4 singers_
 ## "L'espoir du cuer"  
 
 Ars Nova-program from the _Chantilly-codex_(14th C.)
+
+_2 singers + 3 instr._
 
 ## 'EARTHQUAKE !'
 
@@ -55,17 +91,21 @@ _6 Singers_
 
 ## "O belleza vitale, O belleza mortale !"  
 
-Madrigals in Ferrara, ca. 1580  _(Marenzio, Luzzaschi..)_
+Madrigals in Ferrara, ca. 1580  (Marenzio, Luzzaschi..)
+
+_5 singers + lute_
 
 ## "T' amo, mia vita !"
 
-"Love, death, and re-naissance"   'Italian Madrigals at the court of Christian 4 in Denmark.  _(Borgrevick, Pederson, Marenzio, Luzzaschi, De Wert)_
+"Love, death, and re-naissance"   'Italian Madrigals at the court of Christian 4 in Denmark. (Borgrevick, Pederson, Marenzio, De Wert..)
+
+_5 singers + lute_
 
 ## "the 'English' Felix Mendelssohn" 
 
 anthems - Magnificat...
 
-__
+_choir_
 
 __
 
@@ -73,37 +113,9 @@ __
 
 __
 
-# Pluto  &  Hathor Consort :
+__
 
-## ['Voyces & Viols'][0]
-
-Open my Heart, Mind & Lips...
-
-Thomas Tomkins & contemporaries
-
-_5 singers + 5 Viols_
-
-## ['Animam gementem cano'][0]
-
-Composers round the Habsbourg Court in Vienna :
-
-Requiem-Biber / Schmelzer / Stabat Mater _(Premiere!) _- Tuma
-
-_5 singers + 5 strings + organ_
-
-## 'Madrigals & Viols'
-
-From Italy to England : original Madrigals & Coperario on Viols.
-
-_5 singers + 5 Viols_
-
-## 'Aquarius-passion'
-
-Music for mankind at its turning point.
-
-'New Polyphony' refracting the 'Pater noster'  - M. De Cat
-
-_5 singers + 4 viols, lute, organ/celesta_
+# 
 
 __
 
