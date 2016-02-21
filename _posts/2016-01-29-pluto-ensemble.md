@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T10:15:46.834Z'
-dateModified: '2016-02-21T10:15:28.104Z'
+datePublished: '2016-02-21T10:58:55.374Z'
+dateModified: '2016-02-21T10:58:54.666Z'
 title: Projects info
 author: []
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
@@ -25,13 +25,17 @@ _type: WebPage
 # Projects info
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74aa79d1-1c37-4d2e-a2bc-8581f8285d3a.jpg)
 
-**_Pluto-Ensemble :_**
+# Pluto-Ensemble :
 
 ## 'Ars Subtilior, Modern Antiquity?'
 
 Around 1400 there was a fascinating stream composers using all the 'new' possibilities of writing down all kinds of rythms and melodies, called the 'Ars subtilior', even in our ears today sounding as contemporary music : Solage, Ciconia, Hasprois, Machaut, Velu...
 
 _4 singers_
+
+## "L'espoir du cuer"  
+
+Ars Nova-program from the _Chantilly-codex_(14th C.)
 
 ## 'EARTHQUAKE !'
 
@@ -49,7 +53,17 @@ The best Polyphony from the fantastic Alamire-Manuscripts :
 
 _6 Singers_
 
-__
+## "O belleza vitale, O belleza mortale !"  
+
+Madrigals in Ferrara, ca. 1580  _(Marenzio, Luzzaschi..)_
+
+## "T' amo, mia vita !"
+
+"Love, death, and re-naissance"   'Italian Madrigals at the court of Christian 4 in Denmark.  _(Borgrevick, Pederson, Marenzio, Luzzaschi, De Wert)_
+
+## "the 'English' Felix Mendelssohn" 
+
+anthems - Magnificat...
 
 __
 
@@ -57,7 +71,9 @@ __
 
 __
 
-_**Pluto  &  Hathor Consort :**_
+__
+
+# Pluto  &  Hathor Consort :
 
 ## ['Voyces & Viols'][0]
 
