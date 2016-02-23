@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://hortusmusicus.wordpress.com/2015/09/01/festival-oude-muziek-utrecht-2015-maandag-31-augustus/'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T16:35:15.720Z'
-dateModified: '2016-02-23T16:35:15.043Z'
+datePublished: '2016-02-23T17:08:33.590Z'
+dateModified: '2016-02-23T17:08:33.019Z'
 author: []
 title: Press
 sourcePath: _posts/2016-02-23-from-hortus-musicus.md
@@ -18,7 +19,6 @@ publisher:
   domain: hortusmusicus.wordpress.com
   url: null
   favicon: null
-url: from-hortus-musicus/index.html
 _context: 'http://schema.org'
 _type: Article
 
