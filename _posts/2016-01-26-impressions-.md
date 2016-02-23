@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T17:06:23.504Z'
-dateModified: '2016-02-23T17:06:20.094Z'
+datePublished: '2016-02-23T17:22:06.682Z'
+dateModified: '2016-02-23T17:22:03.373Z'
 title: "Photos \_"
 author: []
 sourcePath: _posts/2016-01-26-impressions-.md
@@ -34,7 +34,7 @@ _type: WebPage
 waiting during concert...
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/253fc35041fd7c62d35adf84079594ec484430d0.jpg)
 
-First Pluto-Project 2010 :  **Johannes Passion - Bach******with  'Il Gardellino'.
+First Pluto-Project 2010 :  **Johannes Passion - Bach  ******with  'Il Gardellino'.
 
 **Ripieni :** Sarah Abrams, Annelies Van Gramberen, Bart Uvin, Gunther Vandeven, Govaert Haché, Vincent Lesage, Jean-Bernard Arbeit,
 
