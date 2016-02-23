@@ -5,11 +5,11 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Het concert werd helaas niet erg goed bezocht, wat misschien toe te schrijven is aan de onbekendheid van het Pluto-Ensemble dat nog maar kort bestaat. Het Hatho'
-datePublished: '2016-02-23T16:18:03.254Z'
-dateModified: '2016-02-23T16:17:46.638Z'
+description: ''
+datePublished: '2016-02-23T16:21:19.371Z'
+dateModified: '2016-02-23T16:21:06.201Z'
 author: []
-title: "From 'Hortus Musicus'\_"
+title: "From blog 'Hortus Musicus'\_"
 authors: []
 publisher:
   name: hortusmusicus.wordpress.com
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# From 'Hortus Musicus' 
+# From blog 'Hortus Musicus' 
 
 ## Johan van Veen - Utrecht, Festival Oude Muziek 31/08/2015
 
