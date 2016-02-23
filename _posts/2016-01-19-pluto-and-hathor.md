@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T11:07:28.534Z'
-dateModified: '2016-02-01T11:05:47.135Z'
+datePublished: '2016-02-23T13:32:52.253Z'
+dateModified: '2016-02-23T13:32:37.419Z'
 title: 'Pluto & Hathor'
 author: []
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
@@ -27,7 +27,7 @@ _type: WebPage
 
 ## Pluto - ensemble sings together with Hathor Consort in several Programs :
 
-**"Voyces & Viols !"**
+**["Voyces & Viols !"][0]**
 
 Jacobean Consort-musik  _(Tomkins, Gibbons a.o.)_
 
@@ -45,6 +45,7 @@ Music for humanity at its turning point   (_M. De Cat_)
 
 ## Website Hathor : 
 
-**[Hathor-Consort.eu][0]**
+**[Hathor-Consort.eu][1]**
 
-[0]: http://www.hathor-consort.eu/
+[0]: https://thegrid.ai/pluto-ensemble/program-info/
+[1]: http://www.hathor-consort.eu/
