@@ -6,10 +6,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T16:21:19.371Z'
-dateModified: '2016-02-23T16:21:06.201Z'
+datePublished: '2016-02-23T16:24:40.577Z'
+dateModified: '2016-02-23T16:24:16.129Z'
 author: []
-title: "From blog 'Hortus Musicus'\_"
+title: Press
 authors: []
 publisher:
   name: hortusmusicus.wordpress.com
@@ -23,8 +23,10 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# From blog 'Hortus Musicus' 
+# Press
 
-## Johan van Veen - Utrecht, Festival Oude Muziek 31/08/2015
+## Utrecht, Festival Oude Muziek 31/08/2015
 
-"...De wegblijvers hebben een prachtig concert gemist. Het Pluto-Ensemble heeft een variabele samenstelling; voor dit concert had de leider Marnix De Cat mooie stemmen samengebracht die uitstekend met elkaar en met de gamba's harmonieerden. Het Hathor-Consort mag dan minder bekend zijn dan vergelijkbare Engelse ensembles, de vergelijking daarmee kan het zonder meer doorstaan. Kortom, dit was een erg mooi concert dat meer belangstelling verdiend had."
+Johan van Veen - blog '
+
+' "...De wegblijvers hebben een prachtig concert gemist. Het Pluto-Ensemble heeft een variabele samenstelling; voor dit concert had de leider Marnix De Cat mooie stemmen samengebracht die uitstekend met elkaar en met de gamba's harmonieerden. Het Hathor-Consort mag dan minder bekend zijn dan vergelijkbare Engelse ensembles, de vergelijking daarmee kan het zonder meer doorstaan. Kortom, dit was een erg mooi concert dat meer belangstelling verdiend had."
