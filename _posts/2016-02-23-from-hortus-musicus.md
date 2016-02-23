@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T17:16:04.778Z'
-dateModified: '2016-02-23T17:15:19.859Z'
+datePublished: '2016-02-23T17:16:57.011Z'
+dateModified: '2016-02-23T17:16:56.026Z'
 author: []
 title: Press
 sourcePath: _posts/2016-02-23-from-hortus-musicus.md
@@ -26,7 +26,7 @@ _type: Article
 # Press
 
 ## Utrecht, Festival Oude Muziek 31/08/2015
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/247214a7-b923-4d7a-9874-e32614dd8909.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/18c8de48c8f2dd872f9b7623dade702a52a7173b.jpg)
 
 Johan van Veen - blog    'Hortus Musicus'
 
