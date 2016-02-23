@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T13:32:52.253Z'
-dateModified: '2016-02-23T13:32:37.419Z'
+datePublished: '2016-02-23T13:36:00.645Z'
+dateModified: '2016-02-23T13:35:54.556Z'
 title: 'Pluto & Hathor'
 author: []
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
@@ -31,7 +31,7 @@ _type: WebPage
 
 Jacobean Consort-musik  _(Tomkins, Gibbons a.o.)_
 
-**"Animam gementem cano"**
+**["Animam gementem cano"][0]**
 
 Requiem_(Biber) - Schmelzer, Clamer - Premiere '_Stabat Mater' _(F. Tuma)_
 
