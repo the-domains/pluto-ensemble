@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T17:22:06.682Z'
-dateModified: '2016-02-23T17:22:03.373Z'
+datePublished: '2016-03-04T13:43:13.265Z'
+dateModified: '2016-03-04T13:42:48.937Z'
 title: "Photos \_"
 author: []
 sourcePath: _posts/2016-01-26-impressions-.md
@@ -22,17 +22,17 @@ url: impressions-/index.html
 _type: WebPage
 
 ---
-# Photos  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b70264eb-c7d5-4912-a922-c75d7192fdc3.jpg)
+# Photos  ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c752079fa18b63530da6036edc19b4d0555d3318.jpg)
 
 ****Rehearsal-fun...****
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e020a16d9f74464c0031c26cffc5bb5004d60dfa.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2f4da0ed5c767e14f7cee4e35cfca7f9ccc4693.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/923ee28b4a43f4d3c165e3010196cce965f57974.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/83dc6798111785ad1993319f79f9ae747df72879.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/140dc5202008cc914951aa965c618005eec4c38c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7e9f072e69de6a328729fdba32f2ad55adb229c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a6adb3dcea21c8dc57c1272a0e0f553f612eaef.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3a48b0dd422106cf45e054e6bd81f54fd644a04.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fbee93343bc1f612e98338566bb1d31462ae396.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9da434ecd5f468ccf9ee939421624fddce57282f.jpg)
 
 waiting during concert...
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/253fc35041fd7c62d35adf84079594ec484430d0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/05b7ec47c52d22dd77ae4403e4ac428afdcc207d.jpg)
 
 First Pluto-Project 2010 :  **Johannes Passion - Bach  ******with  'Il Gardellino'.
 
