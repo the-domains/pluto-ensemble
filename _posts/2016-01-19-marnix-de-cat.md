@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Marnix De Cat is a Belgian\_counter-tenor, conductor, organistand percussion player.\_He sings and plays music from 14th to 21st centuries, specializing in old & new Polyphony."
-datePublished: '2016-03-21T07:41:25.860Z'
-dateModified: '2016-03-21T07:37:39.546Z'
+datePublished: '2016-04-04T19:56:40.799Z'
+dateModified: '2016-04-04T19:56:33.738Z'
 title: Marnix
 author: []
 sourcePath: _posts/2016-01-19-marnix-de-cat.md
@@ -42,7 +42,7 @@ Marnix De Cat was the singer-coach of the BL!NDMAN saxophone quartet.Together wi
 
 CONTACT :  **marnix.decat@scarlet.be**
 
-## personal website : [www.marnixdecat.be][5]
+## personal website : [www.][5][marnixdecat][6][.be][5]
 
 [0]: http://www.pluto-ensemble.eu/
 [1]: https://app.thegrid.io/posts/7e95c9e1-b22a-407c-83f5-f527d2b1729d/thegrid.ai/pluto-ensemble/
@@ -50,3 +50,4 @@ CONTACT :  **marnix.decat@scarlet.be**
 [3]: http://www.collegiumvocale.com/
 [4]: http://www.orgax.be/
 [5]: https://thegrid.ai/marnix-de-cat/
+[6]: http://www.marnixdecat.be/
