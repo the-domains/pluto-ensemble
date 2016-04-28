@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Het Pluto-ensemble brengt op Zondag 29 mei in de Sint-Vincentiuskerk te Evere, om 15u :'
-datePublished: '2016-04-28T00:30:41.693Z'
-dateModified: '2016-04-28T00:30:30.849Z'
+datePublished: '2016-04-28T00:31:33.006Z'
+dateModified: '2016-04-28T00:31:29.885Z'
 title: '"Paratum cor meum !"'
 author: []
 sourcePath: _posts/2016-04-28-paratum-cor-meum.md
@@ -35,6 +35,8 @@ Lore Binon, sopraan en Marnix De Cat, bas & altus worden begeleid door
 
 Lidewij van der Voort, barokviool, Romina Lischka, viola da gamba en
 
-Reitze Smits, clavecimbel/orgel. Ze brengen samen een "hartelijk" feestelijk muziekprogramma van Hamburg tot Venetië.
+Reitze Smits, clavecimbel/orgel. 
+
+Ze brengen samen een "hartelijk" feestelijk muziekprogramma van Hamburg tot Venetië.
 
 Organisatie : Davidsfonds Evere-Haren
