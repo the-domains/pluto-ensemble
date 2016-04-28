@@ -6,10 +6,12 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Het Pluto-ensemble brengt op Zondag 29 mei te Evere, Sint-Vincentiuskerk om 15u :'
-datePublished: '2016-04-28T00:26:23.505Z'
-dateModified: '2016-04-28T00:26:03.852Z'
+datePublished: '2016-04-28T00:27:33.619Z'
+dateModified: '2016-04-28T00:27:31.100Z'
 title: '"Paratum cor meum !"'
 author: []
+sourcePath: _posts/2016-04-28-paratum-cor-meum.md
+published: true
 authors: []
 publisher:
   name: null
@@ -17,8 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-paratum-cor-meum.md
-published: true
 _type: Blurb
 
 ---
