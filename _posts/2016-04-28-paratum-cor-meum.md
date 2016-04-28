@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Het Pluto-ensemble musiceert op zondag 29 mei '
-datePublished: '2016-04-28T00:41:42.595Z'
-dateModified: '2016-04-28T00:41:40.499Z'
+datePublished: '2016-04-28T00:43:38.724Z'
+dateModified: '2016-04-28T00:43:36.468Z'
 title: '"Paratum cor meum !"'
 author: []
 sourcePath: _posts/2016-04-28-paratum-cor-meum.md
@@ -41,4 +41,4 @@ Reitze Smits, _clavecimbel/orgel_.
 
 Ze brengen een "hartelijk" & feestelijk programma met vroege barokmuziek van Hamburg tot Venetië...
 
-_Organisatie : Davidsfonds Evere-Haren_
+_Organisatie : Davidsfonds Evere - Haren_
