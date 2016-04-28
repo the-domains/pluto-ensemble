@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Het Pluto-ensemble musiceert op zondag 29 mei '
-datePublished: '2016-04-28T00:43:38.724Z'
-dateModified: '2016-04-28T00:43:36.468Z'
+datePublished: '2016-04-28T00:49:09.830Z'
+dateModified: '2016-04-28T00:49:09.377Z'
 title: '"Paratum cor meum !"'
 author: []
 sourcePath: _posts/2016-04-28-paratum-cor-meum.md
@@ -27,7 +27,7 @@ _type: Article
 
 **Het Pluto-ensemble musiceert op zondag 29 mei **
 
-**in de Sint-Vincentiuskerk te Evere, ****om 15u :**
+**in de Sint-Vincentiuskerk te Evere, ****om 15u : **(klik voor meer info)
 
 ## "Paratum cor meum"
 
@@ -39,6 +39,10 @@ Lidewij van der Voort, _barokviool_, Romina Lischka, _viola da gamba_ en
 
 Reitze Smits, _clavecimbel/orgel_. 
 
-Ze brengen een "hartelijk" & feestelijk programma met vroege barokmuziek van Hamburg tot Venetië...
+Ze brengen een "hartelijk" & feestelijk programma met vroege barokmuziek van Hamburg tot Venetië :
 
-_Organisatie : Davidsfonds Evere - Haren_
+Muziek van Bruhns, Buxtehude, Krieger, Caldara, Scarlatti.
+
+_Organisatie : [Davidsfonds Evere - Haren][0]_
+
+[0]: http://www.evere-en-haren.davidsfonds.be/
