@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Het Pluto-ensemble brengt op Zondag 29 mei in de Sint-Vincentiuskerk te Evere, om 15u :'
-datePublished: '2016-04-28T00:31:33.006Z'
-dateModified: '2016-04-28T00:31:29.885Z'
+datePublished: '2016-04-28T00:36:31.789Z'
+dateModified: '2016-04-28T00:36:27.500Z'
 title: '"Paratum cor meum !"'
 author: []
 sourcePath: _posts/2016-04-28-paratum-cor-meum.md
@@ -29,7 +29,7 @@ _type: Blurb
 
 ## "Paratum cor meum"
 
-> Harte-muziek rond 1700 van Noord tot Zuid"
+> Hartemuziek van Noord tot Zuid
 
 Lore Binon, sopraan en Marnix De Cat, bas & altus worden begeleid door
 
