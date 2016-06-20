@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: (klik voor meer info)
-datePublished: '2016-06-20T11:20:11.799Z'
-dateModified: '2016-06-20T11:19:59.943Z'
+datePublished: '2016-06-20T11:21:52.592Z'
+dateModified: '2016-06-20T11:20:24.300Z'
 title: '"Paratum cor meum !"'
 author: []
 sourcePath: _posts/2016-04-28-paratum-cor-meum.md
