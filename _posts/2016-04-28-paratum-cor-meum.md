@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: (klik voor meer info)
-datePublished: '2016-06-20T11:30:04.231Z'
-dateModified: '2016-06-20T11:24:20.242Z'
+datePublished: '2016-06-20T11:33:16.081Z'
+dateModified: '2016-06-20T11:33:11.530Z'
 title: '"Paratum cor meum !"'
 author: []
 sourcePath: _posts/2016-04-28-paratum-cor-meum.md
@@ -14,7 +14,7 @@ authors: []
 publisher: null
 starred: false
 url: paratum-cor-meum/index.html
-_type: Blurb
+_type: Article
 
 ---
 # "Paratum cor meum !"
