@@ -3,21 +3,18 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-04T13:43:00.560Z'
-dateModified: '2016-03-04T13:41:07.243Z'
+description: Thomas Tomkins & contemporaries
+datePublished: '2016-06-20T11:19:03.843Z'
+dateModified: '2016-06-20T11:19:03.518Z'
 title: Projects
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: pluto-ensemble/index.html
 _type: WebPage
 
@@ -25,7 +22,7 @@ _type: WebPage
 # Projects
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74aa79d1-1c37-4d2e-a2bc-8581f8285d3a.jpg)
 
-# Pluto  &  Hathor Consort :
+# Pluto & Hathor Consort :
 
 ## ['Voyces & Viols'][0]
 
@@ -53,7 +50,7 @@ _5 singers + 5 Viols_
 
 Music for mankind at its turning point.
 
-'New Polyphony' refracting the 'Pater noster'  - M. De Cat
+'New Polyphony' refracting the 'Pater noster' - M. De Cat
 
 _5 singers + 4 viols, lute, organ/celesta_
 
@@ -65,7 +62,7 @@ Around 1400 there was a fascinating stream composers using all the 'new' possibi
 
 _4 singers_
 
-## "L'espoir du cuer"  
+## "L'espoir du cuer" 
 
 Ars Nova-program from the _Chantilly-codex_(14th C.)
 
@@ -87,15 +84,21 @@ The best Polyphony from the fantastic Alamire-Manuscripts :
 
 _6 Singers_
 
-## "O belleza vitale, O belleza mortale !"  
+## "O belleza vitale, O belleza mortale !" 
 
-Madrigals in Ferrara, ca. 1580  (Marenzio, Luzzaschi..)
+Madrigals in Ferrara, ca. 1580 (Marenzio, Luzzaschi..)
 
 _5 singers + lute_
 
 ## "T' amo, mia vita !"
 
-"Love, death, and re-naissance"   'Italian Madrigals at the court of Christian 4 in Denmark. (Borgrevick, Pederson, Marenzio, De Wert..)
+"Love, death, and re-naissance" 'Italian Madrigals at the court of Christian 4 in Denmark. (Borgrevick, Pederson, Marenzio, De Wert..)
+
+## "[Paratum Cor meum][1]"
+
+_2 singers+violin+gamba+Clav./organ_
+
+__
 
 _5 singers + lute_
 
@@ -116,3 +119,4 @@ __
 __
 
 [0]: https://thegrid.ai/pluto-ensemble/program-info/
+[1]: null
