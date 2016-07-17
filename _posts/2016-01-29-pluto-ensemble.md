@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Thomas Tomkins & contemporaries
-datePublished: '2016-06-20T11:19:03.843Z'
-dateModified: '2016-06-20T11:19:03.518Z'
+datePublished: '2016-07-17T06:01:45.301Z'
+dateModified: '2016-07-17T06:01:44.214Z'
 title: Projects
 author:
   - name: ''
@@ -94,13 +94,11 @@ _5 singers + lute_
 
 "Love, death, and re-naissance" 'Italian Madrigals at the court of Christian 4 in Denmark. (Borgrevick, Pederson, Marenzio, De Wert..)
 
+_5 singers + lute_
+
 ## "[Paratum Cor meum][1]"
 
 _2 singers+violin+gamba+Clav./organ_
-
-__
-
-_5 singers + lute_
 
 ## "the 'English' Felix Mendelssohn" 
 
