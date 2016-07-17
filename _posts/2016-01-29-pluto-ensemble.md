@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Thomas Tomkins & contemporaries
-datePublished: '2016-07-17T06:01:45.301Z'
-dateModified: '2016-07-17T06:01:44.214Z'
+datePublished: '2016-07-17T06:21:23.084Z'
+dateModified: '2016-07-17T06:21:22.078Z'
 title: Projects
 author:
   - name: ''
@@ -96,7 +96,7 @@ _5 singers + lute_
 
 _5 singers + lute_
 
-## "[Paratum Cor meum][1]"
+## ["Paratum Cor meum"][1]
 
 _2 singers+violin+gamba+Clav./organ_
 
@@ -117,4 +117,4 @@ __
 __
 
 [0]: https://thegrid.ai/pluto-ensemble/program-info/
-[1]: null
+[1]: http://www.pluto-ensemble.eu/program-info/
