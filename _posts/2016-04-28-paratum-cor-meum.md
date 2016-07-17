@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: (klik voor meer info)
-datePublished: '2016-06-20T11:33:16.081Z'
-dateModified: '2016-06-20T11:33:11.530Z'
+description: 'Lore Binon, sopraan en Marnix De Cat, bas & altus worden begeleid door'
+datePublished: '2016-07-17T06:11:47.277Z'
+dateModified: '2016-07-17T06:11:38.359Z'
 title: '"Paratum cor meum !"'
 author: []
 sourcePath: _posts/2016-04-28-paratum-cor-meum.md
@@ -14,13 +14,11 @@ authors: []
 publisher: null
 starred: false
 url: paratum-cor-meum/index.html
-_type: Article
+_type: Blurb
 
 ---
 # "Paratum cor meum !"
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a2a66b4-4ec4-40d9-b6ca-360d2a3b0867.jpg)
-
-****(klik voor meer info)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3874c2fb-9647-4d7a-95e4-1598b0d1a1ad.jpg)
 
 ## "Paratum cor meum"
 
