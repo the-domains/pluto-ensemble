@@ -3,7 +3,6 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: en
-starred: false
 keywords:
   - stabat
   - clamer
@@ -15,12 +14,14 @@ keywords:
   - pluto-ensemble
   - hathor
   - vimeo
-description: 'Pluto-ensemble & Hathor Consort trailer concert 9/2015 Schmelzer, Clamer, Requiem - Biber, (Worldpremière) Stabat Mater - Tuma'
-datePublished: '2016-02-25T20:12:12.293Z'
-dateModified: '2016-02-25T20:12:09.261Z'
+description: >-
+  Pluto-ensemble & Hathor Consort / Trailer concert 9/2015 Schmelzer, Clamer,
+  Requiem - Biber, Stabat Mater - Tuma (Worldpremière)
+datePublished: '2016-07-20T14:08:00.490Z'
+dateModified: '2016-07-20T14:07:59.636Z'
 author:
-  - name: Marnix De Cat
-    url: 'http://vimeo.com/user1026464'
+  - name: video © Yves Gervais 2015
+    url: ''
     avatar: {}
 related: []
 app_links:
@@ -33,15 +34,15 @@ app_links:
     type: web
     app_name: Vimeo
     package: com.vimeo.android.videoapp
-title: Trailer
+title: Trailer Pluto-Hathor
 sourcePath: _posts/2016-02-17-trailer-pluto-hathor.md
-published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: false
 url: trailer/index.html
 _type: VideoObject
 _context: 'http://schema.org'
