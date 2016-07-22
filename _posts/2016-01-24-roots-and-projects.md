@@ -17,14 +17,19 @@ description: >-
   musician at a point of surrender to the unity of the sound, keeping his own
   flow and identity. What a joy to join that music making, what a feast to
   listen too :-)
-datePublished: '2016-07-17T06:25:15.778Z'
-dateModified: '2016-07-17T06:25:15.100Z'
+datePublished: '2016-07-22T21:33:03.433Z'
+dateModified: '2016-07-22T21:33:00.951Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
 authors: []
-publisher: null
-starred: false
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+via: {}
+starred: true
 _type: Blurb
 
 ---
