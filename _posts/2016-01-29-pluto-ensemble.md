@@ -5,15 +5,20 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Thomas Tomkins & contemporaries
-datePublished: '2016-07-17T06:21:23.084Z'
-dateModified: '2016-07-17T06:21:22.078Z'
+datePublished: '2016-08-11T08:25:44.106Z'
+dateModified: '2016-08-11T08:25:43.249Z'
 title: Projects
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
+via: {}
 authors: []
-publisher: null
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: pluto-ensemble/index.html
 _type: WebPage
@@ -74,7 +79,7 @@ Around Brumel's fascinating 12-voiced Mass 'Et ecce terrae motus' and 'its' mini
 
 (A. Brumel, arrangements & new Music : Marnix De Cat)
 
-_7 singers + 5 instruments_
+_12 singers / instrumentists !_
 
 ## 'JIHAD or l'homme armé '
 
