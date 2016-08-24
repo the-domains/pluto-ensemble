@@ -41,6 +41,9 @@ navigation:
   - name: Listen
     id: 85149188-f573-4c30-a8ef-246db8d0e459
     type: content
+  - name: "Photos \_"
+    id: 6bb7bc4c-6f4e-478e-83c2-32ee0e73086d
+    type: content
 favicon: null
 title: variable vocal ensemble
 purpose: []
