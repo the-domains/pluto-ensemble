@@ -5,13 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Lore Binon, sopraan en Marnix De Cat, bas & altus worden begeleid door'
-datePublished: '2016-07-17T06:27:26.213Z'
-dateModified: '2016-07-17T06:27:17.342Z'
+datePublished: '2016-08-24T07:58:05.152Z'
+dateModified: '2016-08-24T07:58:04.660Z'
 title: Program info
 author: []
 sourcePath: _posts/2016-04-28-paratum-cor-meum.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: paratum-cor-meum/index.html
 _type: Blurb
