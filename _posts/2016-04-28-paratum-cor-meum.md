@@ -1,38 +1,34 @@
 ---
-inFeed: false
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'Lore Binon, sopraan en Marnix De Cat, bas & altus worden begeleid door'
-datePublished: '2016-08-24T07:58:05.152Z'
-dateModified: '2016-08-24T07:58:04.660Z'
-title: Program info
-author: []
+datePublished: '2016-08-24T11:25:33.031Z'
 sourcePath: _posts/2016-04-28-paratum-cor-meum.md
+inFeed: false
 authors: []
-publisher: {}
+hasPage: true
+keywords: []
+author: []
 via: {}
+dateModified: '2016-08-24T11:25:32.568Z'
+title: '"Paratum cor meum !"'
+publisher: {}
+description: >-
+  A “warm-hearted” program with early barockmusic from Hamburg to Venice… The
+  heart as engine of life, as place of lots of emotions, but also as the only
+  transformator for each individual, the connection with “the other”…
+inLanguage: null
+inNav: false
 starred: false
 url: paratum-cor-meum/index.html
-_type: Blurb
+_type: MediaObject
 
 ---
-# Program info
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d7b35aba5c72ac586aa6cb5acdbb52ba7d8057b.jpg)
 
 # "Paratum cor meum !"
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3874c2fb-9647-4d7a-95e4-1598b0d1a1ad.jpg)
 
-## 
-> 
-> Hartemuziek van Noord tot Zuid
+### - Heart-music from North to South -
 
-Lore Binon, _sopraan_ en Marnix De Cat, _bas & altus_ worden begeleid door
+A "warm-hearted" program with early barockmusic from Hamburg to Venice... The heart as engine of life, as place of lots of emotions, but also as the only transformator for each individual, the connection with "the other"...
 
-Lidewij van der Voort, _barokviool_, Romina Lischka, _viola da gamba_ en
+**Lore Binon**, _soprano_ en **Marnix De Cat**, _bass & countertenor,_ accompanied by **Lidewij van der Voort**, _barockviolin_, **Romina Lischka**, _viola da gamba_ and **Reitze Smits**, _harpsichord/organ_.
 
-Reitze Smits, _clavecimbel/orgel_. 
-
-Ze brengen een "hartelijk" & feestelijk programma met vroege barokmuziek van Hamburg tot Venetië :
-
-Muziek van Bruhns, Buxtehude, Krieger, Caldara, Scarlatti.
+Composers: Bruhns, Buxtehude, Krieger, Erlebach, Caldara, Scarlatti.
