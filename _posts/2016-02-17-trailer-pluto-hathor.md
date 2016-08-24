@@ -17,8 +17,8 @@ keywords:
 description: >-
   Pluto-ensemble & Hathor Consort / Trailer concert 9/2015 Schmelzer, Clamer,
   Requiem - Biber, Stabat Mater - Tuma (Worldpremière)
-datePublished: '2016-07-20T14:08:00.490Z'
-dateModified: '2016-07-20T14:07:59.636Z'
+datePublished: '2016-08-24T08:11:53.645Z'
+dateModified: '2016-08-24T08:11:53.089Z'
 author:
   - name: video © Yves Gervais 2015
     url: ''
@@ -37,11 +37,8 @@ app_links:
 title: Trailer Pluto-Hathor
 sourcePath: _posts/2016-02-17-trailer-pluto-hathor.md
 authors: []
-publisher:
-  name: Vimeo
-  domain: vimeo.com
-  url: 'https://vimeo.com/'
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+publisher: {}
+via: {}
 starred: false
 url: trailer/index.html
 _type: VideoObject
