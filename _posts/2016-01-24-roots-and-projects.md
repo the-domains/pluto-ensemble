@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T11:45:33.034Z'
+datePublished: '2016-08-24T15:08:13.753Z'
 sourcePath: _posts/2016-01-24-roots-and-projects.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-24T11:45:32.409Z'
+dateModified: '2016-08-24T15:08:13.137Z'
 title: Roots
 publisher: {}
 description: >-
