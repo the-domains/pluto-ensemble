@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T11:36:33.826Z'
+datePublished: '2016-08-24T14:22:29.481Z'
 sourcePath: _posts/2016-02-21-program-info.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T11:36:33.322Z'
+dateModified: '2016-08-24T14:22:28.871Z'
 title: ‘ Voyces & Viols ‘
 publisher: {}
 description: >-
@@ -38,7 +38,7 @@ Make this journey with a perhaps lesser known but not less genious composer from
 
 ### - Heart-music from North to South -
 
-A "warm-hearted" program with early barockmusic from Hamburg to Venice... The heart as engine of life, as place of lots of emotions, but also as the only transformator for each individual, the connection with "the other"...
+A "warm-hearted" program with early barockmusic from Hamburg to Venice... The heart as engine of life, as place of lots of emotions, but also as the transformator for each individual, the connection with "the other"...
 
 **Lore Binon**, _soprano_ en **Marnix De Cat**, _bass & countertenor,_ accompanied by **Lidewij van der Voort**, _barockviolin_, **Romina Lischka**, _viola da gamba_ and **Reitze Smits**, _harpsichord/organ_.
 
