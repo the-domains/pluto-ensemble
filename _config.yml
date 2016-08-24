@@ -1,12 +1,33 @@
-name: Pluto - ensemble
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/01dd46d6-303f-4766-af39-cee5457c4595.jpg
-layout_spectrum: 0.59154
-typography_spectrum: 0.59421
+typography_spectrum: 0.60209
+color:
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+  brandStrength: 0.8549742568284273
+  lightness: 0.26481626695021987
+  saturation: 0.5977110425010324
+  rhythmicContrast: 0.6403939209412783
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.13287
+analytics:
+  google: UA-72875420-1
+  facebook: null
+  twitter: null
 author:
   name: MDC
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b05cbdb7-6c11-409d-8bd2-31e5e0f993e1.jpg
+name: Pluto - ensemble
+cta:
+  domain: null
+  bucket: null
+  version: null
 navigation:
   - name: Pluto & Hathor
     id: 8e80c2b1-281a-4c06-b81b-d2d40c133df5
@@ -32,29 +53,8 @@ navigation:
   - name: Contact
     id: fd6ed8e6-112b-4f8b-a295-0fa38334aaa3
     type: content
-title: ''
-description: variable vocal ensemble
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-72875420-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#fafff9'
-    - '#040b04'
-    - '#dddad5'
-    - '#474248'
-    - '#867b79'
-  brandStrength: 0.125
-  lightness: 0.26481626695021987
-  saturation: 0.5977110425010324
-  rhythmicContrast: 0.5
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/01dd46d6-303f-4766-af39-cee5457c4595.jpg
+title: variable vocal ensemble
+description: music for the soul
 purpose: []
