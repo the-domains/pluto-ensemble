@@ -44,6 +44,9 @@ navigation:
   - name: Video
     id: 046dda0e-5c73-4543-9cc7-3eb17608e403
     type: content
+  - name: Home
+    id: 9e817ea9-f9b4-4134-a26d-c39052e8c963
+    type: content
   - name: Listen
     id: 85149188-f573-4c30-a8ef-246db8d0e459
     type: content
@@ -52,9 +55,6 @@ navigation:
     type: content
   - name: Contact
     id: fd6ed8e6-112b-4f8b-a295-0fa38334aaa3
-    type: content
-  - name: Home
-    id: 9e817ea9-f9b4-4134-a26d-c39052e8c963
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/01dd46d6-303f-4766-af39-cee5457c4595.jpg
