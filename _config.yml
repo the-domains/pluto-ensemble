@@ -35,11 +35,11 @@ navigation:
   - name: Program info
     id: f5bcf81c-8cef-48ea-b06d-b9b520204e62
     type: content
-  - name: Photos
-    id: 6bb7bc4c-6f4e-478e-83c2-32ee0e73086d
-    type: content
   - name: Pluto & Hathor
     id: 8e80c2b1-281a-4c06-b81b-d2d40c133df5
+    type: content
+  - name: Photos
+    id: 6bb7bc4c-6f4e-478e-83c2-32ee0e73086d
     type: content
   - name: Video
     id: 046dda0e-5c73-4543-9cc7-3eb17608e403
