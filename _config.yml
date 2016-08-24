@@ -50,6 +50,9 @@ navigation:
   - name: Contact
     id: fd6ed8e6-112b-4f8b-a295-0fa38334aaa3
     type: content
+  - name: Projects
+    id: 5215c1d6-be10-48bd-b3a4-f3dc1b5352cd
+    type: content
 favicon: null
 title: variable vocal ensemble
 purpose: []
