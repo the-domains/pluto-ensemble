@@ -1,7 +1,7 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: >-
@@ -16,8 +16,8 @@ description: >-
   musician at a point of surrender to the unity of the sound, keeping his own
   flow and identity. What a joy to join that music making, what a feast to
   listen too :-)
-datePublished: '2016-08-24T10:03:52.568Z'
-dateModified: '2016-08-24T10:03:45.880Z'
+datePublished: '2016-08-24T10:17:23.076Z'
+dateModified: '2016-08-24T10:17:19.057Z'
 title: ''
 author:
   - name: ''
@@ -32,7 +32,7 @@ publisher:
   favicon: null
 starred: false
 url: home/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1e5af0a-5cf6-4fc6-870b-2e19422efae5.jpg)
@@ -57,8 +57,6 @@ _vocal soloists : _
 _Doro Mields, Griet De Geyter, Annelies Van Gramberen, Lore Binon, Katelijne Van Laethem, Marnix De Cat, Kevin Skelton, Thomas Hobbs, Reinoud Van Mechelen, Vincent Lesage, Adriaan De Koster, Tiemo Wang, Harry van der Kamp, Arnout Malfliet ..._
 
 __
-
-## 
 
 ## Pluto-ensemble searches in old & new polyphonic music. The adventure of each, singing his individual part of the Unity.
 
