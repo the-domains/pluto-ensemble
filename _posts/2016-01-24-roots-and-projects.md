@@ -16,8 +16,8 @@ description: >-
   musician at a point of surrender to the unity of the sound, keeping his own
   flow and identity. What a joy to join that music making, what a feast to
   listen too :-)
-datePublished: '2016-08-24T09:30:20.012Z'
-dateModified: '2016-08-24T09:30:19.541Z'
+datePublished: '2016-08-24T09:42:30.764Z'
+dateModified: '2016-08-24T09:42:30.159Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
@@ -33,7 +33,7 @@ url: home/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46401069-63db-47d8-af6e-d8c59a88428f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1b2d011-2e02-469d-bd41-52264c4430ff.jpg)
 
 ## singing music from middle ages till now.
 
@@ -42,8 +42,6 @@ Inspirator, conductor, and/or singer **Marnix De Cat** founded the ensemble to p
 _The Cloud Upon the Sanctuary - K. Eckartshausen (Letter 3)_
 
 _"Our desire, our aim, our office is to revivify the dead letter, and to spiritualise the symbols, turn the passive into the active, death into life; but this we cannot do by ourselves, but through the spirit of light of Him who is Wisdom and the Light of the world."_
-
-# 
 
 # Roots
 
