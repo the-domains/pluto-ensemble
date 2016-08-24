@@ -44,6 +44,9 @@ navigation:
   - name: "Photos \_"
     id: 6bb7bc4c-6f4e-478e-83c2-32ee0e73086d
     type: content
+  - name: Marnix
+    id: ff184e56-3f5d-41ff-9645-7651ba420558
+    type: content
 favicon: null
 title: variable vocal ensemble
 purpose: []
