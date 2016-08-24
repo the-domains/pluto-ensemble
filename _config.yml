@@ -35,7 +35,7 @@ navigation:
   - name: Contact
     id: fd6ed8e6-112b-4f8b-a295-0fa38334aaa3
     type: content
-  - name: MEDIA
+  - name: Video
     id: 046dda0e-5c73-4543-9cc7-3eb17608e403
     type: content
 favicon: null
