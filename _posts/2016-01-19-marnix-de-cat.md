@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: "Marnix De Cat is a Belgian\_counter-tenor, conductor, organistand percussion player.\_He sings and plays music from 14th to 21st centuries, specializing in old & new Polyphony."
-datePublished: '2016-04-04T19:56:40.799Z'
-dateModified: '2016-04-04T19:56:33.738Z'
-title: Marnix
-author: []
+datePublished: '2016-08-24T08:14:02.658Z'
+dateModified: '2016-08-24T08:14:00.704Z'
+title: ''
+author:
+  - name: '©Yves Gervais 2015 '
+    url: ''
 sourcePath: _posts/2016-01-19-marnix-de-cat.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: marnix-de-cat/index.html
 _type: WebPage
 
