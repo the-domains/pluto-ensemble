@@ -35,6 +35,9 @@ navigation:
   - name: Pluto & Hathor
     id: 8e80c2b1-281a-4c06-b81b-d2d40c133df5
     type: content
+  - name: Projects
+    id: 5215c1d6-be10-48bd-b3a4-f3dc1b5352cd
+    type: content
   - name: Video
     id: 046dda0e-5c73-4543-9cc7-3eb17608e403
     type: content
@@ -49,9 +52,6 @@ navigation:
     type: content
   - name: Contact
     id: fd6ed8e6-112b-4f8b-a295-0fa38334aaa3
-    type: content
-  - name: Projects
-    id: 5215c1d6-be10-48bd-b3a4-f3dc1b5352cd
     type: content
 favicon: null
 title: variable vocal ensemble
