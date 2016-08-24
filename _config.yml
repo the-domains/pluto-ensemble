@@ -28,7 +28,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: variable vocal ensemble
+  - name: variable vocal
     id: 9e817ea9-f9b4-4134-a26d-c39052e8c963
     type: content
   - name: Pluto & Hathor
