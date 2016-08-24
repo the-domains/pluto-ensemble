@@ -12,8 +12,8 @@ description: >-
   Chapel where he continued making music up until his death. Tomkins could be
   considered the most important renewer of English music between Byrd and Henry
   Purcell.
-datePublished: '2016-08-24T08:10:42.188Z'
-dateModified: '2016-08-24T08:10:41.526Z'
+datePublished: '2016-08-24T11:06:20.635Z'
+dateModified: '2016-08-24T11:06:19.961Z'
 title: Voyces & Viols
 author: []
 sourcePath: _posts/2016-02-21-program-info.md
