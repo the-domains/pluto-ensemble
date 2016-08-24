@@ -1,20 +1,24 @@
 ---
-datePublished: '2016-08-24T14:21:26.146Z'
-sourcePath: _posts/2016-01-29-pluto-ensemble.md
 inFeed: false
-authors: []
 hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
+description: 'Open my Heart, Mind & Lips...'
+datePublished: '2016-08-24T16:45:00.931Z'
+dateModified: '2016-08-24T16:44:59.786Z'
+sourcePath: _posts/2016-01-29-pluto-ensemble.md
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-24T14:21:24.822Z'
 title: Projects
-publisher: {}
-description: 'Open my Heart, Mind & Lips...'
-inLanguage: null
-inNav: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: pluto-ensemble/index.html
 _type: WebPage
