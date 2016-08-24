@@ -32,6 +32,9 @@ navigation:
   - name: Projects
     id: 5215c1d6-be10-48bd-b3a4-f3dc1b5352cd
     type: content
+  - name: Home
+    id: 9e817ea9-f9b4-4134-a26d-c39052e8c963
+    type: content
   - name: Program info
     id: f5bcf81c-8cef-48ea-b06d-b9b520204e62
     type: content
@@ -43,9 +46,6 @@ navigation:
     type: content
   - name: Video
     id: 046dda0e-5c73-4543-9cc7-3eb17608e403
-    type: content
-  - name: Home
-    id: 9e817ea9-f9b4-4134-a26d-c39052e8c963
     type: content
   - name: Listen
     id: 85149188-f573-4c30-a8ef-246db8d0e459
