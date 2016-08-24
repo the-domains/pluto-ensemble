@@ -38,14 +38,14 @@ navigation:
   - name: Projects
     id: 5215c1d6-be10-48bd-b3a4-f3dc1b5352cd
     type: content
+  - name: Photos
+    id: 6bb7bc4c-6f4e-478e-83c2-32ee0e73086d
+    type: content
   - name: Video
     id: 046dda0e-5c73-4543-9cc7-3eb17608e403
     type: content
   - name: Listen
     id: 85149188-f573-4c30-a8ef-246db8d0e459
-    type: content
-  - name: Photos
-    id: 6bb7bc4c-6f4e-478e-83c2-32ee0e73086d
     type: content
   - name: Marnix
     id: ff184e56-3f5d-41ff-9645-7651ba420558
