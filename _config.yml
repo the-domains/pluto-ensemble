@@ -19,6 +19,10 @@ analytics:
   google: UA-72875420-1
   facebook: null
   twitter: null
+author:
+  name: MDC
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2d6b699-9d99-43a4-a087-7ba203d4bda3.ps
 name: Pluto-ensemble
 cta:
   domain: null
@@ -29,5 +33,5 @@ navigation:
     id: 40bd5942-d27e-4e2a-b148-ec46dd7f1e28
     type: content
 favicon: null
-title: Pluto - ensemble
+title: variable vocal ensemble
 purpose: []
