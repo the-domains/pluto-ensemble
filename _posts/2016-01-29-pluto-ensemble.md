@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Thomas Tomkins & contemporaries
-datePublished: '2016-08-11T08:25:44.106Z'
-dateModified: '2016-08-11T08:25:43.249Z'
+datePublished: '2016-08-24T08:16:09.945Z'
+dateModified: '2016-08-24T08:16:09.216Z'
 title: Projects
 author:
   - name: ''
@@ -14,11 +14,7 @@ author:
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
 via: {}
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
 url: pluto-ensemble/index.html
 _type: WebPage
