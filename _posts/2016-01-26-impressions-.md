@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Rehearsal-fun...
-datePublished: '2016-08-24T09:23:41.336Z'
-dateModified: '2016-08-24T09:23:40.824Z'
+datePublished: '2016-08-24T10:18:00.157Z'
+dateModified: '2016-08-24T10:17:59.417Z'
 sourcePath: _posts/2016-01-26-impressions-.md
 author:
   - name: ''
