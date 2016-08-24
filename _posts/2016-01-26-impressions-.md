@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-04T13:46:15.250Z'
-dateModified: '2016-03-04T13:46:09.725Z'
+description: Rehearsal-fun...
+datePublished: '2016-08-24T08:13:42.546Z'
+dateModified: '2016-08-24T08:13:40.296Z'
 title: "Photos \_"
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-01-26-impressions-.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: impressions-/index.html
 _type: WebPage
 
