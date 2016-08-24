@@ -38,9 +38,6 @@ navigation:
   - name: Contact
     id: fd6ed8e6-112b-4f8b-a295-0fa38334aaa3
     type: content
-  - name: Program info
-    id: f5bcf81c-8cef-48ea-b06d-b9b520204e62
-    type: content
 favicon: null
 title: variable vocal ensemble
 purpose: []
