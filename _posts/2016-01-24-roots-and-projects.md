@@ -16,17 +16,19 @@ description: >-
   musician at a point of surrender to the unity of the sound, keeping his own
   flow and identity. What a joy to join that music making, what a feast to
   listen too :-)
-datePublished: '2016-08-24T09:42:30.764Z'
-dateModified: '2016-08-24T09:42:30.159Z'
+datePublished: '2016-08-24T09:44:51.533Z'
+dateModified: '2016-08-24T09:44:51.027Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-01-24-roots-and-projects.md
 via: {}
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 url: home/index.html
@@ -46,7 +48,7 @@ _"Our desire, our aim, our office is to revivify the dead letter, and to spiritu
 # Roots
 
 ## Polyphonic Music, then and now...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d234bc7a-dbcc-46cc-bc8c-ce7c61cc0ac2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d59b2c95a6d1a6db75d5f0701021e253006cd63.jpg)
 
 _vocal soloists : _
 
