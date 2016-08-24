@@ -47,6 +47,9 @@ navigation:
   - name: Marnix
     id: ff184e56-3f5d-41ff-9645-7651ba420558
     type: content
+  - name: variable vocal ensemble
+    id: 9e817ea9-f9b4-4134-a26d-c39052e8c963
+    type: content
 favicon: null
 title: variable vocal ensemble
 purpose: []
