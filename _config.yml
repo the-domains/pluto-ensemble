@@ -38,6 +38,9 @@ navigation:
   - name: Video
     id: 046dda0e-5c73-4543-9cc7-3eb17608e403
     type: content
+  - name: Listen
+    id: 85149188-f573-4c30-a8ef-246db8d0e459
+    type: content
 favicon: null
 title: variable vocal ensemble
 purpose: []
