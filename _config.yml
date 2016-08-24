@@ -53,7 +53,7 @@ color:
     - '#dddad5'
     - '#474248'
     - '#867b79'
-  brandStrength: 0.5
+  brandStrength: 0.125
   lightness: 0.26481626695021987
   saturation: 0.5977110425010324
   rhythmicContrast: 0.5
