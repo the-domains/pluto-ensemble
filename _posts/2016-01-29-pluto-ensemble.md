@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T14:19:33.748Z'
+datePublished: '2016-08-24T14:21:26.146Z'
 sourcePath: _posts/2016-01-29-pluto-ensemble.md
 inFeed: false
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-24T14:19:33.234Z'
+dateModified: '2016-08-24T14:21:24.822Z'
 title: Projects
 publisher: {}
 description: 'Open my Heart, Mind & Lips...'
@@ -49,7 +49,7 @@ _5 singers + 5 Viols_
 
 ## 'Aquarius-passion'
 
-Music for mankind at its turning point. 
+Music for mankind at its turning point.
 
 15th, 18th and 21st century music, and 'New Polyphony' refracting the 'Pater noster' - M. De Cat
 
@@ -101,9 +101,9 @@ _5 singers + lute_
 
 "Heart"-music from Hamburg to Venice.
 
-Composers: 
+Composers: Buxtehude, Bruhns, Krieger, Erlebach, Caldara, Scarlatti.
 
-_2 singers+violin+gamba+Clav./organ_
+_2 singers+violin+gamba+Harpsich./organ_
 
 [0]: https://thegrid.ai/pluto-ensemble/program-info/
 [1]: http://www.pluto-ensemble.eu/program-info/
