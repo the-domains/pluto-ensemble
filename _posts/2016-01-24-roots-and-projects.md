@@ -17,24 +17,24 @@ description: >-
   musician at a point of surrender to the unity of the sound, keeping his own
   flow and identity. What a joy to join that music making, what a feast to
   listen too :-)
-datePublished: '2016-07-22T21:33:03.433Z'
-dateModified: '2016-07-22T21:33:00.951Z'
+datePublished: '2016-08-24T07:35:34.618Z'
+dateModified: '2016-08-24T07:35:33.785Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
+via: {}
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-via: {}
-starred: true
+starred: false
 _type: Blurb
 
 ---
 # Variable Vocal Ensemble
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e161f29b468f950dce75fdfbaeb703495a74f61.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecc09bbd34694e86fcbf9609e431612db161e33a.jpg)
 
 ## singing music from middle ages till now.
 
