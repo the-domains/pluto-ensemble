@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-23T13:36:00.645Z'
-dateModified: '2016-02-23T13:35:54.556Z'
-title: 'Pluto & Hathor'
-author: []
+description: "Jacobean Consort-musik \_ (Tomkins, Gibbons a.o.)"
+datePublished: '2016-08-24T08:09:24.463Z'
+dateModified: '2016-08-24T08:09:23.377Z'
+title: 'Pluto - ensemble sings together with Hathor Consort in several Programs :'
+author:
+  - name: photo©Yves Gervais
+    url: ''
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: pluto-and-hathor/index.html
 _type: WebPage
 
