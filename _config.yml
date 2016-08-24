@@ -50,6 +50,9 @@ navigation:
   - name: Contact
     id: fd6ed8e6-112b-4f8b-a295-0fa38334aaa3
     type: content
+  - name: Program info
+    id: f5bcf81c-8cef-48ea-b06d-b9b520204e62
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/01dd46d6-303f-4766-af39-cee5457c4595.jpg
 title: ''
