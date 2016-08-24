@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T11:10:24.356Z'
+datePublished: '2016-08-24T11:28:26.270Z'
 sourcePath: _posts/2016-02-21-program-info.md
 inFeed: false
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T11:10:23.759Z'
-title: ‘ Voyces & Viols ‘
+dateModified: '2016-08-24T11:28:25.629Z'
+title: '"Paratum cor meum !"'
 publisher: {}
 description: >-
   “ Voyces & Viols “ takes us into the world of the vocal and instrumental
@@ -32,3 +32,13 @@ _type: Blurb
 " Voyces & Viols " traces the voyage of a once melancholic soul which, after listening to the heart and following enlightened reflection, can only praise its Creator. From delicate three-part polyphony to an explosion of melody, harmony, and colour.
 
 Make this journey with a perhaps lesser known but not less genious composer from the first half of the seventeenth century.
+
+# "Paratum cor meum !"
+
+### - Heart-music from North to South -
+
+A "warm-hearted" program with early barockmusic from Hamburg to Venice... The heart as engine of life, as place of lots of emotions, but also as the only transformator for each individual, the connection with "the other"...
+
+**Lore Binon**, _soprano_ en **Marnix De Cat**, _bass & countertenor,_ accompanied by **Lidewij van der Voort**, _barockviolin_, **Romina Lischka**, _viola da gamba_ and **Reitze Smits**, _harpsichord/organ_.
+
+Composers: Bruhns, Buxtehude, Krieger, Erlebach, Caldara, Scarlatti.
