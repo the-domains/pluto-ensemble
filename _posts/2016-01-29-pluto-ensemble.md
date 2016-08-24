@@ -1,27 +1,27 @@
 ---
+datePublished: '2016-08-24T14:19:33.748Z'
+sourcePath: _posts/2016-01-29-pluto-ensemble.md
 inFeed: false
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: Thomas Tomkins & contemporaries
-datePublished: '2016-08-24T08:16:09.945Z'
-dateModified: '2016-08-24T08:16:09.216Z'
-title: Projects
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-01-29-pluto-ensemble.md
 via: {}
-authors: []
+dateModified: '2016-08-24T14:19:33.234Z'
+title: Projects
 publisher: {}
+description: 'Open my Heart, Mind & Lips...'
+inLanguage: null
+inNav: true
 starred: false
 url: pluto-ensemble/index.html
 _type: WebPage
 
 ---
 # Projects
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74aa79d1-1c37-4d2e-a2bc-8581f8285d3a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6df3b35211d70f6ba9d0cdf1be4024ae77e7a70.jpg)
 
 # Pluto & Hathor Consort :
 
@@ -35,9 +35,9 @@ _5 singers + 5 Viols_
 
 ## ['Animam gementem cano'][0]
 
-Composers round the Habsbourg Court in Vienna :
-
 Requiem-Biber / Schmelzer / Stabat Mater _(Premiere!)_- Tuma
+
+Composers round the Habsbourg Court in Vienna :
 
 _5 singers + 5 strings + organ_
 
@@ -49,9 +49,9 @@ _5 singers + 5 Viols_
 
 ## 'Aquarius-passion'
 
-Music for mankind at its turning point.
+Music for mankind at its turning point. 
 
-'New Polyphony' refracting the 'Pater noster' - M. De Cat
+15th, 18th and 21st century music, and 'New Polyphony' refracting the 'Pater noster' - M. De Cat
 
 _5 singers + 4 viols, lute, organ/celesta_
 
@@ -63,7 +63,7 @@ Around 1400 there was a fascinating stream composers using all the 'new' possibi
 
 _4 singers_
 
-## "L'espoir du cuer" 
+## "L'espoir du cuer"
 
 Ars Nova-program from the _Chantilly-codex_(14th C.)
 
@@ -85,7 +85,7 @@ The best Polyphony from the fantastic Alamire-Manuscripts :
 
 _6 Singers_
 
-## "O belleza vitale, O belleza mortale !" 
+## "O belleza vitale, O belleza mortale !"
 
 Madrigals in Ferrara, ca. 1580 (Marenzio, Luzzaschi..)
 
@@ -99,23 +99,11 @@ _5 singers + lute_
 
 ## ["Paratum Cor meum"][1]
 
+"Heart"-music from Hamburg to Venice.
+
+Composers: 
+
 _2 singers+violin+gamba+Clav./organ_
-
-## "the 'English' Felix Mendelssohn" 
-
-anthems - Magnificat...
-
-_choir_
-
-__
-
-__
-
-__
-
-__
-
-__
 
 [0]: https://thegrid.ai/pluto-ensemble/program-info/
 [1]: http://www.pluto-ensemble.eu/program-info/
