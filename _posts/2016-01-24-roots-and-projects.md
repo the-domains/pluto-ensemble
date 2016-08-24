@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: >-
@@ -17,8 +16,8 @@ description: >-
   musician at a point of surrender to the unity of the sound, keeping his own
   flow and identity. What a joy to join that music making, what a feast to
   listen too :-)
-datePublished: '2016-08-24T07:35:34.618Z'
-dateModified: '2016-08-24T07:35:33.785Z'
+datePublished: '2016-08-24T07:38:10.112Z'
+dateModified: '2016-08-24T07:37:53.319Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
@@ -30,7 +29,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: home/index.html
+_type: Article
 
 ---
 # Variable Vocal Ensemble
