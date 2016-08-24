@@ -21,7 +21,8 @@ analytics:
   twitter: null
 author:
   name: MDC
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/533cf5b5-653f-422c-adde-6fd1305b0b6f.jpg
 name: Pluto - ensemble
 cta:
   domain: null
