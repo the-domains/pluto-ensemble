@@ -16,21 +16,24 @@ description: >-
   musician at a point of surrender to the unity of the sound, keeping his own
   flow and identity. What a joy to join that music making, what a feast to
   listen too :-)
-datePublished: '2016-08-24T08:14:41.449Z'
-dateModified: '2016-08-24T08:14:40.530Z'
+datePublished: '2016-08-24T09:30:20.012Z'
+dateModified: '2016-08-24T09:30:19.541Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-24-roots-and-projects.md
 via: {}
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: home/index.html
 _type: WebPage
 
 ---
-# Variable Vocal Ensemble
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecc09bbd34694e86fcbf9609e431612db161e33a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46401069-63db-47d8-af6e-d8c59a88428f.jpg)
 
 ## singing music from middle ages till now.
 
@@ -40,6 +43,8 @@ _The Cloud Upon the Sanctuary - K. Eckartshausen (Letter 3)_
 
 _"Our desire, our aim, our office is to revivify the dead letter, and to spiritualise the symbols, turn the passive into the active, death into life; but this we cannot do by ourselves, but through the spirit of light of Him who is Wisdom and the Light of the world."_
 
+# 
+
 # Roots
 
 ## Polyphonic Music, then and now...
@@ -48,6 +53,8 @@ _"Our desire, our aim, our office is to revivify the dead letter, and to spiritu
 _vocal soloists : _
 
 _Doro Mields, Griet De Geyter, Annelies Van Gramberen, Lore Binon, Katelijne Van Laethem, Marnix De Cat, Kevin Skelton, Thomas Hobbs, Reinoud Van Mechelen, Vincent Lesage, Adriaan De Koster, Tiemo Wang, Harry van der Kamp, Arnout Malfliet ..._
+
+__
 
 ## Pluto-ensemble searches in old & new polyphonic music. The adventure of each, singing his individual part of the Unity.
 
