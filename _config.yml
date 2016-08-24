@@ -1,33 +1,11 @@
+name: Pluto - ensemble
+favicon: null
+layout_spectrum: 0.13287
 typography_spectrum: 0.8799199531786144
-color:
-  brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
-  brandStrength: 0.8549742568284273
-  lightness: 0.26481626695021987
-  saturation: 0.5977110425010324
-  rhythmicContrast: 0.6403939209412783
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.06410602713003755
-analytics:
-  google: UA-72875420-1
-  facebook: null
-  twitter: null
 author:
   name: MDC
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/533cf5b5-653f-422c-adde-6fd1305b0b6f.jpg
-name: Pluto - ensemble
-cta:
-  domain: null
-  bucket: null
-  version: null
 navigation:
   - name: variable vocal
     id: 9e817ea9-f9b4-4134-a26d-c39052e8c963
@@ -53,7 +31,29 @@ navigation:
   - name: Contact
     id: fd6ed8e6-112b-4f8b-a295-0fa38334aaa3
     type: content
-favicon: null
 title: ''
 description: variable vocal ensemble
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-72875420-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+  brandStrength: 0.8549742568284273
+  lightness: 0.26481626695021987
+  saturation: 0.5977110425010324
+  rhythmicContrast: 0.6403939209412783
 purpose: []
