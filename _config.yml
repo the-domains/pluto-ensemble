@@ -53,6 +53,9 @@ navigation:
   - name: Contact
     id: fd6ed8e6-112b-4f8b-a295-0fa38334aaa3
     type: content
+  - name: Home
+    id: 9e817ea9-f9b4-4134-a26d-c39052e8c963
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/01dd46d6-303f-4766-af39-cee5457c4595.jpg
 title: variable vocal ensemble
