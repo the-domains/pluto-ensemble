@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T11:28:26.270Z'
+datePublished: '2016-08-24T11:36:33.826Z'
 sourcePath: _posts/2016-02-21-program-info.md
 inFeed: false
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T11:28:25.629Z'
-title: '"Paratum cor meum !"'
+dateModified: '2016-08-24T11:36:33.322Z'
+title: ‘ Voyces & Viols ‘
 publisher: {}
 description: >-
   “ Voyces & Viols “ takes us into the world of the vocal and instrumental
@@ -25,15 +25,16 @@ url: program-info/index.html
 _type: Blurb
 
 ---
-## ' Voyces & Viols '
+# ' Voyces & Viols '
 
-" Voyces & Viols " takes us into the world of the vocal and instrumental consort music of Thomas Tomkins (1572-1656). As a student of William Byrd, Tomkins continued the latter's own rich contribution to the English polyphonic tradition. He was friend and fellow organist of Orlando Gibbons at the Royal Chapel where he continued making music up until his death. Tomkins could be considered the most important renewer of English music between Byrd and Henry Purcell.
+" Voyces & Viols " takes us into the world of the vocal and instrumental consort music of **Thomas Tomkins** (1572-1656). As a student of William Byrd, Tomkins continued the latter's own rich contribution to the English polyphonic tradition. He was friend and fellow organist of Orlando Gibbons at the Royal Chapel where he continued making music up until his death. Tomkins could be considered the most important renewer of English music between Byrd and Henry Purcell.
 
 " Voyces & Viols " traces the voyage of a once melancholic soul which, after listening to the heart and following enlightened reflection, can only praise its Creator. From delicate three-part polyphony to an explosion of melody, harmony, and colour.
 
 Make this journey with a perhaps lesser known but not less genious composer from the first half of the seventeenth century.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ed956f5-dd58-4959-98df-f15bcd42af50.jpg)
 
-# "Paratum cor meum !"
+# ' Paratum cor meum ! '
 
 ### - Heart-music from North to South -
 
