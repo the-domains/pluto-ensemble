@@ -1,17 +1,9 @@
 ---
-datePublished: '2016-08-24T15:08:13.753Z'
-sourcePath: _posts/2016-01-24-roots-and-projects.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
-author:
-  - name: ''
-    url: ''
-via: {}
-dateModified: '2016-08-24T15:08:13.137Z'
-title: Roots
-publisher: {}
 description: >-
   Inspirator, conductor, and/or singer Marnix De Cat founded the ensemble to
   perform music based on Truth of the human being, with a message of beauty and
@@ -22,8 +14,20 @@ description: >-
   'Pluto', the third mistery-planet of the Aquarius-era. After Uranus and
   Neptunus, influencing the heart and the mind, Pluto is the re-creator of man
   as a higher being.
-inLanguage: null
-inNav: true
+datePublished: '2016-08-25T23:28:36.193Z'
+dateModified: '2016-08-25T23:28:35.656Z'
+sourcePath: _posts/2016-01-24-roots-and-projects.md
+author:
+  - name: ''
+    url: ''
+via: {}
+title: Roots
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
 starred: false
 url: home/index.html
 _type: Article
