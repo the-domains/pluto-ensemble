@@ -53,8 +53,8 @@ color:
     - '#dddad5'
     - '#474248'
     - '#867b79'
-  brandStrength: 0.75
+  brandStrength: 0.5625
   lightness: 0.5
-  saturation: 0.5977110425010324
-  rhythmicContrast: 0.5
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
