@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The Cloud Upon the Sanctuary - K. Eckartshausen (Letter 3)
-datePublished: '2016-08-27T08:57:56.914Z'
-dateModified: '2016-08-27T08:57:56.447Z'
+datePublished: '2016-08-27T09:03:38.192Z'
+dateModified: '2016-08-27T09:03:37.698Z'
 sourcePath: _posts/2016-01-24-roots-and-projects.md
 author:
   - name: ''
