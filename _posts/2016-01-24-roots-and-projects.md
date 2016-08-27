@@ -1,19 +1,18 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: The Cloud Upon the Sanctuary - K. Eckartshausen (Letter 3)
-datePublished: '2016-08-27T09:10:18.769Z'
-dateModified: '2016-08-27T09:10:18.290Z'
+datePublished: '2016-08-27T09:19:43.008Z'
+dateModified: '2016-08-27T09:19:42.207Z'
 sourcePath: _posts/2016-01-24-roots-and-projects.md
 author:
   - name: ''
     url: ''
 via: {}
-title: Singing music from middle ages till now.
+title: singing music from middle ages till now.
 authors: []
 publisher:
   name: null
@@ -21,7 +20,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: singing-music-from-middle-ages-till-now/index.html
+_type: Article
 
 ---
 # Pluto-ensemble
@@ -35,7 +35,7 @@ _The Cloud Upon the Sanctuary - K. Eckartshausen (Letter 3)_
 
 _"Our desire, our aim, our office is to revivify the dead letter, and to spiritualise the symbols, turn the passive into the active, death into life; but this we cannot do by ourselves, but through the spirit of light of Him who is Wisdom and the Light of the world."_
 
-## Singing music from middle ages till now.
+## singing music from middle ages till now.
 
 _vocal soloists :_
 
