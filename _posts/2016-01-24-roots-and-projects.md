@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: The Cloud Upon the Sanctuary - K. Eckartshausen (Letter 3)
-datePublished: '2016-08-27T09:19:43.008Z'
-dateModified: '2016-08-27T09:19:42.207Z'
+datePublished: '2016-08-27T09:27:46.733Z'
+dateModified: '2016-08-27T09:27:46.198Z'
 sourcePath: _posts/2016-01-24-roots-and-projects.md
 author:
   - name: ''
@@ -20,8 +21,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: singing-music-from-middle-ages-till-now/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Pluto-ensemble
