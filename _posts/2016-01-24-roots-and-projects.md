@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The Cloud Upon the Sanctuary - K. Eckartshausen (Letter 3)
-datePublished: '2016-08-26T00:01:44.076Z'
-dateModified: '2016-08-26T00:01:43.317Z'
+datePublished: '2016-08-27T08:57:56.914Z'
+dateModified: '2016-08-27T08:57:56.447Z'
 sourcePath: _posts/2016-01-24-roots-and-projects.md
 author:
   - name: ''
     url: ''
 via: {}
-title: Roots
+title: Singing music from middle ages till now.
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: false
 url: home/index.html
@@ -41,7 +41,7 @@ _vocal soloists :_
 _Doro Mields, Griet De Geyter, Annelies Van Gramberen, Lore Binon, Katelijne Van Laethem, Marnix De Cat, Kevin Skelton, Thomas Hobbs, Reinoud Van Mechelen, Vincent Lesage, Adriaan De Koster, Tiemo Wang, Harry van der Kamp, Arnout Malfliet ..._
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d59b2c95a6d1a6db75d5f0701021e253006cd63.jpg)
 
-# Roots
+## Roots:
 
 ## Polyphonic Music, then and now...
 
