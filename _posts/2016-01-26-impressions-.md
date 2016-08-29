@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Rehearsal-fun...
-datePublished: '2016-08-24T10:18:00.157Z'
-dateModified: '2016-08-24T10:17:59.417Z'
+datePublished: '2016-08-28T08:09:21.117Z'
+dateModified: '2016-08-28T08:09:17.667Z'
 sourcePath: _posts/2016-01-26-impressions-.md
 author:
   - name: ''
@@ -41,4 +41,3 @@ First Pluto-Project 2010 : **Johannes Passion - Bach **with 'Il Gardellino'
 _**Ripieni :** Sarah Abrams, Annelies Van Gramberen, Bart Uvin, Gunther Vandeven, Govaert Haché, Vincent Lesage, Jean-Bernard Arbeit,_
 
 _**Soloists :** Caroline Weynants S, Marnix De Cat A, Reinoud Van Mechelen T, Lieven Termont Bar, Harry van der Kamp B, Marcus Ulmann (evang.)_
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fbee93343bc1f612e98338566bb1d31462ae396.jpg)
