@@ -15,8 +15,8 @@ description: >-
   'Pluto', the third mistery-planet of the Aquarius-era. After Uranus and
   Neptunus, influencing the heart and the mind, Pluto is the re-creator of man
   as a higher being.
-datePublished: '2016-08-28T07:54:24.324Z'
-dateModified: '2016-08-28T07:54:21.641Z'
+datePublished: '2016-08-28T07:57:08.896Z'
+dateModified: '2016-08-28T07:57:08.552Z'
 sourcePath: >-
   _posts/2016-08-28-pluto-ensemble-searches-in-old-and-new-polyphonic-music-the-a.md
 author:
@@ -26,7 +26,7 @@ via: {}
 title: singing music from middle ages till now.
 authors: []
 publisher:
-  name: MDC
+  name: ''
   domain: null
   url: ''
   favicon: null
@@ -49,7 +49,7 @@ _vocal soloists :_
 
 _Doro Mields, Griet De Geyter, Annelies Van Gramberen, Lore Binon, Katelijne Van Laethem, Marnix De Cat, Kevin Skelton, Thomas Hobbs, Reinoud Van Mechelen, Vincent Lesage, Adriaan De Koster, Tiemo Wang, Harry van der Kamp, Arnout Malfliet ..._
 
-## Roots:
+# Roots:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b737fe0-7b4b-4259-9dcf-753fcd3535a1.jpg)
 
 ## Polyphonic Music, then and now...
