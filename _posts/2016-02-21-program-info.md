@@ -1,9 +1,15 @@
 ---
+datePublished: '2016-08-28T08:11:44.020Z'
+sourcePath: _posts/2016-02-21-program-info.md
 inFeed: false
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-28T08:11:43.539Z'
+title: ‘ Voyces & Viols ‘
+publisher: {}
 description: >-
   “ Voyces & Viols “ takes us into the world of the vocal and instrumental
   consort music of Thomas Tomkins (1572-1656). As a student of William Byrd,
@@ -12,18 +18,8 @@ description: >-
   Chapel where he continued making music up until his death. Tomkins could be
   considered the most important renewer of English music between Byrd and Henry
   Purcell.
-datePublished: '2016-08-24T16:43:52.522Z'
-dateModified: '2016-08-24T16:43:51.367Z'
-sourcePath: _posts/2016-02-21-program-info.md
-author: []
-via: {}
-title: ‘ Voyces & Viols ‘
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+inLanguage: null
+inNav: false
 starred: false
 url: program-info/index.html
 _type: Blurb
