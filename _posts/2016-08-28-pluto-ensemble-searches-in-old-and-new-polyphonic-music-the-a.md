@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: >-
@@ -14,8 +15,8 @@ description: >-
   'Pluto', the third mistery-planet of the Aquarius-era. After Uranus and
   Neptunus, influencing the heart and the mind, Pluto is the re-creator of man
   as a higher being.
-datePublished: '2016-08-28T15:22:18.835Z'
-dateModified: '2016-08-28T15:22:17.578Z'
+datePublished: '2016-08-28T19:54:05.446Z'
+dateModified: '2016-08-28T19:54:03.136Z'
 sourcePath: >-
   _posts/2016-08-28-pluto-ensemble-searches-in-old-and-new-polyphonic-music-the-a.md
 author:
@@ -29,9 +30,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
-url: singing-music-from-middle-ages-till-now/index.html
-_type: Article
+starred: false
+_type: Blurb
 
 ---
 # Pluto-ensemble 
