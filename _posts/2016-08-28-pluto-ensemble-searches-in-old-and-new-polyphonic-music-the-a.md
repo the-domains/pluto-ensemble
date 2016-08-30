@@ -14,8 +14,8 @@ description: >-
   'Pluto', the third mistery-planet of the Aquarius-era. After Uranus and
   Neptunus, influencing the heart and the mind, Pluto is the re-creator of man
   as a higher being.
-datePublished: '2016-08-28T15:19:43.803Z'
-dateModified: '2016-08-28T15:19:32.332Z'
+datePublished: '2016-08-28T15:22:18.835Z'
+dateModified: '2016-08-28T15:22:17.578Z'
 sourcePath: >-
   _posts/2016-08-28-pluto-ensemble-searches-in-old-and-new-polyphonic-music-the-a.md
 author:
@@ -29,12 +29,14 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: singing-music-from-middle-ages-till-now/index.html
 _type: Article
 
 ---
-# Pluto-ensemble searches in old & new polyphonic music. The adventure of each, singing his individual part of the Unity.
+# Pluto-ensemble 
+
+## searches in old & new polyphonic music. The adventure of each, singing his individual part of the Unity.
 
 Inspirator, conductor, and/or singer **Marnix De Cat** founded the ensemble to perform music based on Truth of the human being, with a message of beauty and joy. In times of mondial disturbance the idea is to have a good influence both on musicians and public, by programming, playing and explaining music in its context. Let's eliminate the disturbance by exploring and working on the cause, this means our own self... The name comes from the 'dwarf'-planet 'Pluto', the third mistery-planet of the Aquarius-era. After Uranus and Neptunus, influencing the heart and the mind, Pluto is the re-creator of man as a higher being.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5eb7f3c-d4dd-4181-9e66-e6dfa745a8c4.jpg)
@@ -49,7 +51,7 @@ _vocal soloists :_
 
 _Doro Mields, Griet De Geyter, Annelies Van Gramberen, Lore Binon, Katelijne Van Laethem, Marnix De Cat, Kevin Skelton, Thomas Hobbs, Reinoud Van Mechelen, Vincent Lesage, Adriaan De Koster, Tiemo Wang, Harry van der Kamp, Arnout Malfliet ..._
 
-# Roots:
+## Roots:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b737fe0-7b4b-4259-9dcf-753fcd3535a1.jpg)
 
 ## Polyphonic Music, then and now...
