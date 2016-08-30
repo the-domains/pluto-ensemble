@@ -1,7 +1,7 @@
 name: Pluto - ensemble
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/01dd46d6-303f-4766-af39-cee5457c4595.jpg
-layout_spectrum: 0.62505
+layout_spectrum: 0.59155
 typography_spectrum: 0.59553
 title: ''
 collections:
@@ -65,8 +65,8 @@ color:
     - '#dddad5'
     - '#474248'
     - '#867b79'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.25
+  brandStrength: 0.5625
+  lightness: 0.625
+  saturation: 0.3125
   rhythmicContrast: 0.75
 purpose: []
