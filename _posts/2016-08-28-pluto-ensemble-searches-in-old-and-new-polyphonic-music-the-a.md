@@ -14,8 +14,8 @@ description: >-
   'Pluto', the third mistery-planet of the Aquarius-era. After Uranus and
   Neptunus, influencing the heart and the mind, Pluto is the re-creator of man
   as a higher being.
-datePublished: '2016-08-28T20:32:01.655Z'
-dateModified: '2016-08-28T20:31:53.355Z'
+datePublished: '2016-08-28T20:35:07.717Z'
+dateModified: '2016-08-28T20:35:05.042Z'
 author:
   - name: ''
     url: ''
@@ -26,19 +26,14 @@ title: >-
   searches in old & new polyphonic music. The adventure of each, singing his
   individual part of the Unity.
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
 url: searches-in-old-and-new-polyphonic-music-the-adventure-of-eac/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c3e0dee-f1fe-4c20-bbe2-2373d3a2d69d.jpg)
-
 # Pluto-ensemble
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c3e0dee-f1fe-4c20-bbe2-2373d3a2d69d.jpg)
 
 ## searches in old & new polyphonic music. The adventure of each, singing his individual part of the Unity.
 
@@ -57,7 +52,6 @@ _Doro Mields, Griet De Geyter, Annelies Van Gramberen, Lore Binon, Katelijne Van
 ## Roots:
 
 ## Polyphonic Music, then and now...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b737fe0-7b4b-4259-9dcf-753fcd3535a1.jpg)
 
 The Pluto-ensemble, with its inspirator Marnix De Cat grounded in the early tradition of the **Franco-Flemish Polyphony**, also wants to open other musical fields. From the 14th century Ars Nova and Ars Subtilior, over the Golden Renaissance from Flanders to Italy, France, Germany and England, Polyphony keeps up its remarkable and exciting way to tease the ears. Over classical polyphonic structures we also pass the Barock-period and meet Fux, Biber, Tuma, Bach... Ending in contemporary polyphonic music in minimal and repetitive music. All the way the sound of polyphony sets each individual musician at a point of surrender to the unity of the sound, keeping his own flow and identity.
 
