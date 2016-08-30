@@ -1,5 +1,9 @@
+name: Pluto - ensemble
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/01dd46d6-303f-4766-af39-cee5457c4595.jpg
+layout_spectrum: 0.3978723
+typography_spectrum: 0.5975
 title: ''
-purpose: []
 collections:
   - index:
       path: /
@@ -13,17 +17,6 @@ collections:
       format: rss
       number: 10
 description: ''
-color:
-  saturation: 0.3125
-  brandStrength: 0.625
-  rhythmicContrast: 0.75
-  brandColors:
-    - '#fafff9'
-    - '#040b04'
-    - '#dddad5'
-    - '#474248'
-    - '#867b79'
-  lightness: 0.5
 navigation:
   - name: Pluto & Hathor
     id: 8e80c2b1-281a-4c06-b81b-d2d40c133df5
@@ -49,24 +42,31 @@ navigation:
   - name: Contact
     id: fd6ed8e6-112b-4f8b-a295-0fa38334aaa3
     type: content
-analytics:
-  twitter: null
-  google: UA-72875420-1
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
 author:
   name: MDC
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/01dd46d6-303f-4766-af39-cee5457c4595.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b05cbdb7-6c11-409d-8bd2-31e5e0f993e1.jpg
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-72875420-1
+  facebook: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-name: Pluto - ensemble
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b05cbdb7-6c11-409d-8bd2-31e5e0f993e1.jpg
-typography_spectrum: 0.5975
-layout_spectrum: 0.3978723
+color:
+  brandColors:
+    - '#fafff9'
+    - '#040b04'
+    - '#dddad5'
+    - '#474248'
+    - '#867b79'
+  brandStrength: 0.625
+  lightness: 0.5
+  saturation: 0.3125
+  rhythmicContrast: 0.75
+purpose: []
