@@ -14,17 +14,15 @@ description: >-
   'Pluto', the third mistery-planet of the Aquarius-era. After Uranus and
   Neptunus, influencing the heart and the mind, Pluto is the re-creator of man
   as a higher being.
-datePublished: '2016-08-28T20:35:07.717Z'
-dateModified: '2016-08-28T20:35:05.042Z'
+datePublished: '2016-08-28T20:35:51.800Z'
+dateModified: '2016-08-28T20:35:48.392Z'
 author:
   - name: ''
     url: ''
 sourcePath: >-
   _posts/2016-08-28-pluto-ensemble-searches-in-old-and-new-polyphonic-music-the-a.md
 via: {}
-title: >-
-  searches in old & new polyphonic music. The adventure of each, singing his
-  individual part of the Unity.
+title: ''
 authors: []
 publisher: {}
 starred: false
@@ -32,10 +30,9 @@ url: searches-in-old-and-new-polyphonic-music-the-adventure-of-eac/index.html
 _type: Article
 
 ---
-# Pluto-ensemble
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c3e0dee-f1fe-4c20-bbe2-2373d3a2d69d.jpg)
 
-## searches in old & new polyphonic music. The adventure of each, singing his individual part of the Unity.
+# Pluto-ensemble searches in old & new polyphonic music. The adventure of each, singing his individual part of the Unity.
 
 Inspirator, conductor, and/or singer **Marnix De Cat** founded the ensemble to perform music based on Truth of the human being, with a message of beauty and joy. In times of mondial disturbance the idea is to have a good influence both on musicians and public, by programming, playing and explaining music in its context. Let's eliminate the disturbance by exploring and working on the cause, this means our own self... The name comes from the 'dwarf'-planet 'Pluto', the third mistery-planet of the Aquarius-era. After Uranus and Neptunus, influencing the heart and the mind, Pluto is the re-creator of man as a higher being.
 
