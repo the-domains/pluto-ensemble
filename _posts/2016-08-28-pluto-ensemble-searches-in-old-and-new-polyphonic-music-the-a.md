@@ -1,9 +1,13 @@
 ---
+datePublished: '2016-08-28T21:38:42.716Z'
 inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
+author: []
+via: {}
+dateModified: '2016-08-28T21:38:09.613Z'
+title: >-
+  Pluto-ensemble searches in old & new polyphonic music. The adventure of each,
+  singing his individual part of the Unity.
+publisher: {}
 description: >-
   Inspirator, conductor, and/or singer Marnix De Cat founded the ensemble to
   perform music based on Truth of the human being, with a message of beauty and
@@ -14,26 +18,15 @@ description: >-
   'Pluto', the third mistery-planet of the Aquarius-era. After Uranus and
   Neptunus, influencing the heart and the mind, Pluto is the re-creator of man
   as a higher being.
-datePublished: '2016-08-28T21:19:19.572Z'
-dateModified: '2016-08-28T21:19:17.363Z'
-author:
-  - name: ''
-    url: ''
+starred: false
 sourcePath: >-
   _posts/2016-08-28-pluto-ensemble-searches-in-old-and-new-polyphonic-music-the-a.md
-via: {}
-title: ''
-authors: []
-publisher: {}
-starred: false
-url: searches-in-old-and-new-polyphonic-music-the-adventure-of-eac/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Pluto-ensemble searches in old & new polyphonic music. The adventure of each, singing his individual part of the Unity.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/439c56c7-3450-46db-8aa6-443c172184f5.jpg)
 
-Inspirator, conductor, and/or singer **Marnix De Cat** founded the ensemble to perform music based on Truth of the human being, with a message of beauty and joy. In times of mondial disturbance the idea is to have a good influence both on musicians and public, by programming, playing and explaining music in its context. Let's eliminate the disturbance by exploring and working on the cause, this means our own self... The name comes from the 'dwarf'-planet 'Pluto', the third mistery-planet of the Aquarius-era. After Uranus and Neptunus, influencing the heart and the mind, Pluto is the re-creator of man as a higher being.
+Inspirator, conductor, and/or singer **Marnix De Cat **founded the ensemble to perform music based on Truth of the human being, with a message of beauty and joy. In times of mondial disturbance the idea is to have a good influence both on musicians and public, by programming, playing and explaining music in its context. Let's eliminate the disturbance by exploring and working on the cause, this means our own self... The name comes from the 'dwarf'-planet 'Pluto', the third mistery-planet of the Aquarius-era. After Uranus and Neptunus, influencing the heart and the mind, Pluto is the re-creator of man as a higher being.
 
 _The Cloud Upon the Sanctuary - K. Eckartshausen (Letter 3)_
 
