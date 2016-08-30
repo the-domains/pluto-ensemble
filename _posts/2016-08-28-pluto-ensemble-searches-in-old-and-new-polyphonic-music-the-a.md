@@ -15,8 +15,8 @@ description: >-
   'Pluto', the third mistery-planet of the Aquarius-era. After Uranus and
   Neptunus, influencing the heart and the mind, Pluto is the re-creator of man
   as a higher being.
-datePublished: '2016-08-28T20:22:39.876Z'
-dateModified: '2016-08-28T20:22:31.011Z'
+datePublished: '2016-08-28T20:27:33.552Z'
+dateModified: '2016-08-28T20:27:23.838Z'
 author:
   - name: ''
     url: ''
