@@ -14,9 +14,9 @@ collections:
       path: '/:title/'
 description: ''
 color:
-  saturation: 0.3125
+  saturation: 0.5510638
   brandStrength: 0.9829787
-  lightness: 0.625
+  lightness: 0.7170213
   brandColors:
     - '#fafff9'
     - '#040b04'
@@ -69,4 +69,4 @@ name: Pluto - ensemble
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b05cbdb7-6c11-409d-8bd2-31e5e0f993e1.jpg
 typography_spectrum: 0.59553
-layout_spectrum: 0.7085106
+layout_spectrum: 0.9340426
