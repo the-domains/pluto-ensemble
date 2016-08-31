@@ -1,7 +1,7 @@
 name: Pluto - ensemble
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/01dd46d6-303f-4766-af39-cee5457c4595.jpg
-layout_spectrum: 0.37894
+layout_spectrum: 0.39667
 typography_spectrum: 0.58962
 author:
   name: MDC
@@ -66,7 +66,7 @@ color:
     - '#d0c5c1'
     - '#572715'
   brandStrength: 0.5625
-  lightness: 0.625
-  saturation: 0.25
-  rhythmicContrast: 0.25
+  lightness: 0.5625
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
