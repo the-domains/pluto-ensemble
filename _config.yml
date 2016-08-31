@@ -67,6 +67,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: variable vocal
+title: ''
 description: variable vocal
 purpose: []
