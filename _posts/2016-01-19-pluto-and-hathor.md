@@ -1,34 +1,29 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-08-29T08:22:14.363Z'
-dateModified: '2016-08-29T08:22:11.106Z'
+datePublished: '2016-08-29T16:04:44.202Z'
 sourcePath: _posts/2016-01-19-pluto-and-hathor.md
+inFeed: false
+authors: []
+hasPage: true
+keywords: []
 author:
   - name: photo©Yves Gervais
     url: ''
 via: {}
-title: 'Pluto - ensemble sings together with Hathor Consort in several Programs :'
-authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+dateModified: '2016-08-29T16:04:43.525Z'
+title: Pluto & Hathor
+publisher: {}
+description: ''
+inLanguage: null
+inNav: true
 starred: false
 url: pluto-and-hathor/index.html
 _type: WebPage
 
 ---
+# Pluto & Hathor
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c326508c4c8b5bf409e1cc7cccfcee415b140d57.jpg)
 
 ## Pluto - ensemble sings together with Hathor Consort in several Programs :
-
-# Pluto & Hathor
 
 ### **["Voyces & Viols !"][0]**
 
