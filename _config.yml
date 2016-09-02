@@ -68,5 +68,5 @@ collections:
     permalink:
       path: '/:title/'
 title: ''
-description: ''
+description: variable vocal
 purpose: []
