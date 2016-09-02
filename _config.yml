@@ -23,7 +23,7 @@ author:
   name: MDC
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b05cbdb7-6c11-409d-8bd2-31e5e0f993e1.jpg
-name: Pluto - ensemble
+name: Pluto-ensemble
 cta:
   domain: null
   bucket: null
@@ -67,6 +67,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Pluto-ensemble
+title: variable vocal
 description: variable vocal
 purpose: []
