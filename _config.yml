@@ -1,33 +1,12 @@
+name: Pluto-ensemble
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/01dd46d6-303f-4766-af39-cee5457c4595.jpg
+layout_spectrum: 0.45217
 typography_spectrum: 0.58962
-color:
-  brandColors:
-    - '#f9fff5'
-    - '#695b50'
-    - '#18181a'
-    - '#403e3f'
-    - '#a7b3cd'
-  brandStrength: 0.5
-  lightness: 0.625
-  saturation: 0.25
-  rhythmicContrast: 0.75
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.47736
-analytics:
-  google: UA-72875420-1
-  facebook: null
-  twitter: null
 author:
   name: MDC
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b05cbdb7-6c11-409d-8bd2-31e5e0f993e1.jpg
-name: Pluto-ensemble
-cta:
-  domain: null
-  bucket: null
-  version: null
 navigation:
   - name: Pluto & Hathor
     id: 8e80c2b1-281a-4c06-b81b-d2d40c133df5
@@ -53,8 +32,6 @@ navigation:
   - name: Contact
     id: fd6ed8e6-112b-4f8b-a295-0fa38334aaa3
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/01dd46d6-303f-4766-af39-cee5457c4595.jpg
 collections:
   - index:
       path: /
@@ -69,4 +46,27 @@ collections:
       path: '/:title/'
 title: ''
 description: variable vocal
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-72875420-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#f9fff5'
+    - '#695b50'
+    - '#18181a'
+    - '#403e3f'
+    - '#a7b3cd'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
