@@ -1,8 +1,19 @@
+layout_spectrum: 0.54748
+typography_spectrum: 0.6107730804942548
+color:
+  brandColors:
+    - '#f9fff5'
+    - '#695b50'
+    - '#18181a'
+    - '#403e3f'
+    - '#a7b3cd'
+  brandStrength: 0.5625
+  lightness: 0.625
+  saturation: 0.25
+  rhythmicContrast: 0.75
 name: Pluto-ensemble
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/01dd46d6-303f-4766-af39-cee5457c4595.jpg
-layout_spectrum: 0.54748
-typography_spectrum: 0.58962
 author:
   name: MDC
 logo: >-
@@ -58,15 +69,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#f9fff5'
-    - '#695b50'
-    - '#18181a'
-    - '#403e3f'
-    - '#a7b3cd'
-  brandStrength: 0.5625
-  lightness: 0.625
-  saturation: 0.25
-  rhythmicContrast: 0.75
 purpose: []
